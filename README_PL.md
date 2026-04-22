@@ -6,6 +6,7 @@ UP to zestaw narzędzi do zarządzania czasem i zadaniami. Każde narzędzie jes
 
 → [Filozofia](pl/philosophy.md)
 → [Metoda](pl/method.md)
+→ [Przykłady](pl/examples.md)
 
 ## Narzędzia
 

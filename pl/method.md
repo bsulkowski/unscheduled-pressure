@@ -49,6 +49,8 @@ Narzędzia obejmują pełne spektrum od spraw bezpośrednich do odległych, i od
 
 Żadne narzędzie nie próbuje pokryć całej tabeli. Każde robi jedną rzecz dobrze.
 
+Przykłady przydzielania konkretnych spraw do narzędzi — w tym przypadki, gdy ta sama czynność trafia do różnych narzędzi w zależności od kontekstu — znajdziesz w pliku [UP w praktyce](examples.md).
+
 ## Czego metoda nie narzuca
 
 UP nie określa, jak często przeglądać narzędzia, które z nich otwierać pierwsze ani jak strukturyzować dzień. Narzędzia są dostępne wtedy, gdy są potrzebne. Nieregularne lub rzadkie korzystanie z nich nie jest porażką — system jest zaprojektowany tak, żeby czekać, a nie żądać.

@@ -49,6 +49,8 @@ The tools cover the full range from the immediate to the distant, and from the r
 
 No single tool tries to cover the whole table. Each does one thing well.
 
+For examples of how specific activities are assigned to tools — including cases where the same activity belongs to different tools depending on context — see [UP in Practice](examples.md).
+
 ## What the method does not prescribe
 
 UP does not specify how often to review, which tool to open first, or how to structure a day. The tools are available when needed. Using them inconsistently or infrequently is not a failure — the system is designed to wait, not to demand.

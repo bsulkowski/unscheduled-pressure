@@ -6,6 +6,7 @@ UP is a set of tools for managing time and tasks. Each tool is matched to a diff
 
 → [Philosophy](en/philosophy.md)
 → [The Method](en/method.md)
+→ [Examples](en/examples.md)
 
 ## Tools
 
