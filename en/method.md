@@ -52,3 +52,15 @@ No single tool tries to cover the whole table. Each does one thing well.
 ## What the method does not prescribe
 
 UP does not specify how often to review, which tool to open first, or how to structure a day. The tools are available when needed. Using them inconsistently or infrequently is not a failure — the system is designed to wait, not to demand.
+
+## Scope and known limits
+
+UP was developed and tested in a personal context. It covers things that have a temporal nature — rhythm, horizon, recurrence, pace — but that typically get forced into a calendar for lack of better tools. It does not cover ideas, reference materials, or knowledge management.
+
+Two areas where the method may need extension, particularly in professional or collaborative contexts:
+
+**Multi-stage projects.** A project with interdependent steps can be placed in the Scale-Free Planner as a single entry with subtasks in its description, assigned to the time when the first step needs attention. This works for simple cases but does not show how the project unfolds over time, and splitting it into multiple entries makes it hard to track dependencies between them.
+
+**Waiting on others.** Tasks that are blocked pending someone else's decision, response, or action have no dedicated place in the current toolkit. In practice they tend to land on the TODO list, which is not ideal.
+
+These are areas where feedback from users in different contexts will be most valuable. UP is not designed to be complete from the outset — it is designed to be honest about what it covers and open about what it does not.

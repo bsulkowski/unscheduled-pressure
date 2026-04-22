@@ -52,3 +52,15 @@ Narzędzia obejmują pełne spektrum od spraw bezpośrednich do odległych, i od
 ## Czego metoda nie narzuca
 
 UP nie określa, jak często przeglądać narzędzia, które z nich otwierać pierwsze ani jak strukturyzować dzień. Narzędzia są dostępne wtedy, gdy są potrzebne. Nieregularne lub rzadkie korzystanie z nich nie jest porażką — system jest zaprojektowany tak, żeby czekać, a nie żądać.
+
+## Zakres i znane ograniczenia
+
+UP było rozwijane i testowane w kontekście osobistym. Obejmuje sprawy, które mają naturę czasową — rytm, horyzont, powtarzalność, tempo — ale które zwykle z braku lepszych narzędzi wtłacza się w kalendarz. Nie obejmuje idei, materiałów referencyjnych ani zarządzania wiedzą.
+
+Dwa obszary, w których metoda może wymagać uzupełnienia — szczególnie w kontekście zawodowym lub zespołowym:
+
+**Projekty wieloetapowe.** Projekt ze wzajemnie zależnymi etapami można umieścić w Scale-Free Plannerze jako jeden wpis z listą podzadań w opisie, przypisany do czasu, kiedy trzeba zająć się pierwszym z nich. Sprawdza się to w prostych przypadkach, ale nie pokazuje, jak projekt rozkłada się w czasie. Rozbicie go na kilka osobnych wpisów utrudnia z kolei śledzenie zależności między etapami.
+
+**Oczekiwanie na innych.** Sprawy zablokowane w oczekiwaniu na decyzję, odpowiedź lub działanie innej osoby nie mają dedykowanego miejsca w obecnym zestawie narzędzi. W praktyce trafiają na listę TODO, co nie jest rozwiązaniem optymalnym.
+
+Są to obszary, w których feedback od użytkowników w różnych kontekstach będzie najbardziej wartościowy. UP nie jest zaprojektowane jako system kompletny od początku — jest zaprojektowane tak, żeby być uczciwe wobec tego, co obejmuje, i otwarte wobec tego, czego jeszcze nie obejmuje.
