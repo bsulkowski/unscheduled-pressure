@@ -5,7 +5,9 @@
 UP is a set of tools for managing time and tasks. Each tool is matched to a different type of commitment. Together they cover the full range from today's to-do list to plans years ahead — without enforcing a rhythm, demanding regular reviews, or turning the system itself into a source of stress.
 
 → [Philosophy](en/philosophy.md)
+
 → [The Method](en/method.md)
+
 → [Examples](en/examples.md)
 
 ## Tools

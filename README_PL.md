@@ -5,7 +5,9 @@
 UP to zestaw narzędzi do zarządzania czasem i zadaniami. Każde narzędzie jest dopasowane do innego rodzaju zobowiązań. Razem obejmują pełne spektrum — od listy zadań na dziś po plany na lata — bez narzucania rytmu, wymagania regularnych przeglądów ani zamieniania samego systemu w źródło stresu.
 
 → [Filozofia](pl/philosophy.md)
+
 → [Metoda](pl/method.md)
+
 → [Przykłady](pl/examples.md)
 
 ## Narzędzia

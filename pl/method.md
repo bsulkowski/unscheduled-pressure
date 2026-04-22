@@ -22,16 +22,22 @@ Statyczna tabela powtarzającej się struktury tygodnia — plan lekcji dzieci, 
 Lista konkretnych, krótkich spraw czekających na załatwienie dziś lub jutro. Intencją nie jest uchwycenie wszystkiego, żeby nic nie umknęło — lecz uświadomienie sobie priorytetów. Sprawę z listy można świadomie odłożyć lub z niej zrezygnować, gdy brakuje zasobów. Dzięki temu to użytkownik panuje nad bieżącymi priorytetami, a nie jego lęki, lenistwo czy chwilowa presja tego, co akurat czuje się pilne.
 
 ### Czynności powtarzalne
-Do czynności bez stałego terminu, które po prostu trzeba wykonywać regularnie — czyszczenie filtra, wymiana szczoteczki, sprawdzenie czujnika dymu. Tabela czynności, przybliżonych częstości i dat ostatniego wykonania. Delikatny sygnał pojawia się po przekroczeniu dolnego progu wybranego przedziału. [→ Czynności powtarzalne](recurring-tasks-pl.md)
+Do czynności bez stałego terminu, które po prostu trzeba wykonywać regularnie — czyszczenie filtra, wymiana szczoteczki, sprawdzenie czujnika dymu. Tabela czynności, przybliżonych częstości i dat ostatniego wykonania. Delikatny sygnał pojawia się po przekroczeniu dolnego progu wybranego przedziału.
+
+→ [Czynności powtarzalne](recurring-tasks-pl.md)
 
 ### Deadline-y cykliczne
 Prosta lista regularnych zobowiązań finansowych i administracyjnych — miesięczne rachunki, roczne odnowienia — z zaznaczeniem, które są do załatwienia w bieżącym okresie i do kiedy. Nie tyle osobne narzędzie, co lekki wzorzec: lista kontrolna resetowana wraz z każdym cyklem.
 
 ### Pace Planner
-Do czynności bez terminu i bez stałego harmonogramu — czas wolny, rozwój osobisty, hobby. Każdej czynności przypisywana jest planowana dzienna średnia; znacznik dryfuje do przodu i do tyłu w kalendarzu, odzwierciedlając tempo realizacji względem planu. Mechanizm sprzęgła stopniowo zmniejsza duże różnice między planem a rzeczywistością, zapobiegając zniechęceniu. [→ Pace Planner](pace-planner-pl.md)
+Do czynności bez terminu i bez stałego harmonogramu — czas wolny, rozwój osobisty, hobby. Każdej czynności przypisywana jest planowana dzienna średnia; znacznik dryfuje do przodu i do tyłu w kalendarzu, odzwierciedlając tempo realizacji względem planu. Mechanizm sprzęgła stopniowo zmniejsza duże różnice między planem a rzeczywistością, zapobiegając zniechęceniu.
+
+→ [Pace Planner](pace-planner-pl.md)
 
 ### Scale-Free Planner
-Do długofalowego planowania we wszystkich horyzontach jednocześnie. Zadania przydzielane są do przedziałów czasowych, których szerokość rośnie wraz z odległością od teraźniejszości. W miarę upływu czasu odległe przedziały dojrzewają i dzielą się na węższe — plany nie są wyrzucane i budowane od nowa, lecz trwale się budują i uszczegóławiają. Sprawdza się naturalnie przy wspólnym planowaniu dwóch lub więcej osób. [→ Scale-Free Planner](scale-free-planner-pl.md)
+Do długofalowego planowania we wszystkich horyzontach jednocześnie. Zadania przydzielane są do przedziałów czasowych, których szerokość rośnie wraz z odległością od teraźniejszości. W miarę upływu czasu odległe przedziały dojrzewają i dzielą się na węższe — plany nie są wyrzucane i budowane od nowa, lecz trwale się budują i uszczegóławiają. Sprawdza się naturalnie przy wspólnym planowaniu dwóch lub więcej osób.
+
+→ [Scale-Free Planner](scale-free-planner-pl.md)
 
 ## Jak narzędzia się uzupełniają
 
