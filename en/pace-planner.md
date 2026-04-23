@@ -12,6 +12,8 @@ At the same time, any system that turns leisure into obligation defeats its own 
 
 Each activity is assigned a planned average — a target amount of time per day. A marker tracks progress against that plan by moving forward and backward in the calendar.
 
+Daily averages are chosen from a set of quantised values rather than entered as free numbers. The default set is: 5, 7, 10, 15, 20, 30 minutes. As with the frequency intervals in Recurring Tasks, the point is to remove a non-decision — whether an activity deserves 12 or 15 minutes a day is rarely meaningful, and deliberating over it adds friction without value. The default values can be adjusted to suit your needs.
+
 If the marker sits on today, you are exactly on pace. If you spend time on the activity, the marker moves forward proportionally. Thirty minutes on an activity planned at fifteen minutes per day moves the marker two days ahead. If the marker is ahead of today, that activity has been getting more than its share of time recently — a natural signal to let other things catch up. If the marker is behind today, that activity has been neglected.
 
 No entry is required on days when nothing happens. The marker simply stays where it is.

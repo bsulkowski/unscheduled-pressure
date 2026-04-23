@@ -12,6 +12,8 @@ Jednocześnie każdy system, który zamienia przyjemność w obowiązek, działa
 
 Każdej czynności przypisywana jest planowana średnia — docelowa ilość czasu dziennie. Znacznik śledzi realizację względem planu, przesuwając się do przodu i do tyłu w kalendarzu.
 
+Dzienne średnie wybierane są ze skwantowanego zestawu wartości, a nie wpisywane dowolnie. Domyślny zestaw to: 5, 7, 10, 15, 20, 30 minut. Podobnie jak przedziały częstości w Czynności powtarzalnych, chodzi o wyeliminowanie pozornej decyzji — to, czy danej czynności należy się 12 czy 15 minut dziennie, rzadko ma znaczenie, a deliberowanie nad tym dodaje tarcia bez wartości. Domyślne wartości można dostosować do własnych potrzeb.
+
 Jeśli znacznik wskazuje dzisiejszy dzień, realizacja jest dokładnie zgodna z planem. Czas poświęcony na daną czynność przesuwa znacznik proporcjonalnie do przodu. Trzydzieści minut przy planowanych piętnastu minutach dziennie przesuwa znacznik o dwa dni do przodu. Jeśli znacznik jest przed dzisiaj, dana czynność ostatnio pochłaniała więcej niż swój udział czasu — naturalny sygnał, żeby dać teraz szansę innym. Jeśli znacznik jest za dzisiaj, czynność była zaniedbywana.
 
 W dniach, gdy nic się nie dzieje, nie trzeba niczego wpisywać. Znacznik po prostu zostaje tam, gdzie jest.
