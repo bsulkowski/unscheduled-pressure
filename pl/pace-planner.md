@@ -12,9 +12,9 @@ Jednocześnie każdy system, który zamienia przyjemność w obowiązek, działa
 
 Każdej czynności przypisywana jest planowana średnia — docelowa ilość czasu dziennie. Znacznik śledzi realizację względem planu, przesuwając się do przodu i do tyłu w kalendarzu.
 
-Dzienne średnie wybierane są ze skwantowanego zestawu wartości, a nie wpisywane dowolnie. Domyślny zestaw to: 5, 7, 10, 15, 20, 30 minut. Podobnie jak przedziały częstości w Czynności powtarzalnych, chodzi o wyeliminowanie pozornej decyzji — to, czy danej czynności należy się 12 czy 15 minut dziennie, rzadko ma znaczenie, a deliberowanie nad tym dodaje tarcia bez wartości. Domyślne wartości można dostosować do własnych potrzeb.
+Dzienne średnie wybierane są ze skwantowanego zestawu wartości, a nie wpisywane dowolnie. Domyślny zestaw to: 5, 7, 10, 15, 20, 30 minut. Podobnie jak przedziały częstości w Czynności powtarzalnych, chodzi o wyeliminowanie pozornej decyzji — to, czy danej czynności należy się 13 czy 14 minut dziennie, rzadko ma znaczenie, a deliberowanie nad tym dodaje tarcia bez wartości. Domyślne wartości można dostosować do własnych potrzeb.
 
-Jeśli znacznik wskazuje dzisiejszy dzień, realizacja jest dokładnie zgodna z planem. Czas poświęcony na daną czynność przesuwa znacznik proporcjonalnie do przodu. Trzydzieści minut przy planowanych piętnastu minutach dziennie przesuwa znacznik o dwa dni do przodu. Jeśli znacznik jest przed dzisiaj, dana czynność ostatnio pochłaniała więcej niż swój udział czasu — naturalny sygnał, żeby dać teraz szansę innym. Jeśli znacznik jest za dzisiaj, czynność była zaniedbywana.
+Jeśli znacznik wskazuje dzisiejszy dzień, realizacja jest dokładnie zgodna z planem. Czas poświęcony na daną czynność przesuwa znacznik proporcjonalnie do przodu. Trzydzieści minut przy planowanych piętnastu minutach dziennie przesuwa znacznik o dwa dni do przodu. Jeśli znacznik wyprzedza dzisiaj, dana czynność ostatnio pochłaniała więcej niż swój udział czasu — naturalny sygnał, żeby dać teraz szansę innym. Jeśli znacznik opóźnia się w stosunku do dzisiaj, czynność była zaniedbywana.
 
 W dniach, gdy nic się nie dzieje, nie trzeba niczego wpisywać. Znacznik po prostu zostaje tam, gdzie jest.
 
@@ -26,13 +26,13 @@ Znacznik nie jest terminem. Nie generuje poczucia winy. Spędzenie godziny na cz
 
 ## Sprzęgło (leeway)
 
-Z czasem różnica między planem a realizacją może urosnąć na tyle, że przestaje być użyteczna. Znacznik opóźniony o kilka tygodni zaczyna brzmieć jak oskarżenie, a nie wskazówka. Znacznik wybiegający kilka tygodni do przodu traci wartość sygnalizacyjną.
+Z czasem różnica między planem a realizacją może urosnąć na tyle, że przestaje być użyteczna. Znacznik opóźniony o kilka tygodni wywołuje poczucie beznadziei — plan jest tak odległy, że podejmowanie prób wyrównania nie ma sensu. Znacznik wybiegający kilka tygodni do przodu albo prowadzi do paraliżu — trudno w ogóle zająć się daną czynnością — albo powoduje utratę orientacji, jak bardzo realizacja odbiega od planu.
 
-Mechanizm sprzęgła stopniowo zmniejsza te różnice w regularnych odstępach czasu. Raz w tygodniu wszystkie odległości od teraźniejszości są redukowane o stały procent — w referencyjnej implementacji o 20%. Znacznik trzy tygodnie do przodu cofa się o około cztery dni. Znacznik dwa tygodnie do tyłu przesuwa się do przodu o około trzy dni.
+Mechanizm sprzęgła stopniowo zmniejsza te różnice w regularnych odstępach czasu. Raz w tygodniu wszystkie odległości od teraźniejszości są proporcjonalnie redukowane — w referencyjnej implementacji o 1 dzień dla każdych 5 dni różnicy. Znacznik trzy tygodnie do przodu cofa się o cztery dni. Znacznik dwa tygodnie do tyłu przesuwa się do przodu o trzy dni.
 
 Sprzęgło nie jest resetem. Nie wymazuje historii ani nie udaje, że różnica nie istniała. Stopniowo godzi plan z rzeczywistością, utrzymując znaczniki wystarczająco blisko teraźniejszości, żeby pozostały motywujące.
 
-Tygodniowa korekta jest stosowana w odniesieniu do stałego dnia — w referencyjnej implementacji poniedziałku — ale można ją przeprowadzić dowolnego dnia. Liczy się upływ czasu, nie dzień kalendarza.
+Tygodniowa korekta jest stosowana w odniesieniu do stałego dnia — w referencyjnej implementacji poniedziałku — ale można ją przeprowadzić dowolnego dnia.
 
 ## Implementacja
 
@@ -52,4 +52,4 @@ To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dod
 - Brak narzuconego rytmu — czynności można realizować w dowolnej kolejności, czasie i ilości
 - Brak kary za nieobecność — znacznik czeka; nic nie wygasa ani nie resetuje się
 - Brak sztucznej pilności — znacznik sygnalizuje względne tempo, nie termin
-- Sprzęgło zapobiega temu, żeby plan stał się zniechęcający — rzeczywistość i intencja pozostają wystarczająco blisko siebie, żeby być użyteczne
+- Sprzęgło zapobiega temu, żeby plan stał się zniechęcający — znaczniki pozostają wystarczająco blisko teraźniejszości, żeby zachować sens
