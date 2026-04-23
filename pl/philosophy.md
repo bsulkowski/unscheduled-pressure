@@ -23,11 +23,9 @@ Oznacza to:
 
 ## Lustro, nie trener
 
-To rozróżnienie ma znaczenie. Trener ma własną agendę: chce żebyś osiągał, poprawiał się, nadążał. Lustro nie ma agendy. Pokazuje to, co jest, i pozwala samemu zdecydować, co z tym zrobić.
+To istotne rozróżnienie. Trener ma własną agendę: chce żebyś osiągał, poprawiał się, nadążał. Lustro nie ma agendy. Pokazuje to, co jest, i pozwala samemu zdecydować, co z tym zrobić.
 
-Narzędzia UP są lustrami. Pokazują kształt zobowiązań — co czeka, co przekroczyło próg, co odpływa — bez mówienia, jak należy zareagować. Sygnał pochodzi z rzeczywistości: upływu czasu, własnej konfiguracji, różnicy między intencją a działaniem. Nie z wyobrażenia narzędzia o tym, jak powinna wyglądać praca.
-
-Oznacza to też, że gdy narzędzie sygnalizuje coś — czynność powtarzalną po przekroczeniu przedziału, znacznik tempa który odpłynął — ten sygnał należy do użytkownika. To użytkownik ustawił próg. To użytkownik decyduje, czy działać.
+Narzędzia UP są lustrami. Pokazują kształt zobowiązań — co czeka, co się opóźnia, co gdzieś umyka — bez mówienia, jak należy zareagować. Sygnał pochodzi z rzeczywistości: upływu czasu, własnej konfiguracji, różnicy między intencją a działaniem. Nie z wyobrażenia narzędzia o tym, jak powinna wyglądać praca.
 
 ## Świadome decyzje zamiast reaktywnych
 
@@ -43,7 +41,9 @@ UP nie próbuje uchwycić wszystkiego. Próbuje uczynić widocznym to, co ważne
 
 ## Dla kogo
 
-Dla każdego, kto próbował systemu zarządzania czasem i odkrył, że utrzymanie samego systemu stało się osobnym zadaniem. Dla każdego, kto potrzebuje zobaczyć kształt swoich obecnych zobowiązań — bez instrukcji, jak je obsłużyć. Dla każdego, kogo czas wolny jest na tyle ograniczony, że warto go spędzać świadomie — ale kto nie chce systemu, który zamienia wypoczynek w kolejną formę obowiązku.
+- Dla każdego, kto próbował systemu zarządzania czasem i odkrył, że utrzymanie systemu stało się zadaniem samym w sobie.
+- Dla każdego, kto potrzebuje zobaczyć kształt swoich obecnych zobowiązań — bez instrukcji, jak je obsłużyć.
+- Dla każdego, kogo czas wolny jest na tyle ograniczony, że warto go spędzać świadomie — ale kto nie chce systemu, który zamienia wypoczynek w kolejną formę obowiązku.
 
 ---
 

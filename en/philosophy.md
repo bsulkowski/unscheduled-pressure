@@ -27,8 +27,6 @@ The distinction matters. A coach has an agenda: it wants you to perform, improve
 
 UP tools are mirrors. They surface the shape of your commitments — what is pending, what is overdue, what is drifting — without telling you how to respond. The signal comes from reality: elapsed time, your own configuration, the gap between intention and action. Not from the tool's idea of how you should be working.
 
-This also means that when a tool does signal something — a recurring task past its interval, a pace marker that has drifted — the signal is yours. You set the threshold. You decide whether to act.
-
 ## Conscious decisions over reactive ones
 
 A common failure mode in task management is doing things not because they are important, but because they feel urgent, or because fear of forgetting them creates its own pressure. The result is a day shaped by anxiety rather than intention.
@@ -43,7 +41,9 @@ UP does not try to capture everything. It tries to make what matters visible.
 
 ## Who this is for
 
-Anyone who has tried a time management system and found that maintaining the system became a task in itself. Anyone who needs to see the shape of their current commitments without being told how to handle them. Anyone whose free time is limited enough that spending it intentionally matters — but who does not want a system that turns leisure into another form of obligation.
+- Anyone who has tried a time management system and found that maintaining the system became a task in itself.
+- Anyone who needs to see the shape of their current commitments without being told how to handle them.
+- Anyone whose free time is limited enough that spending it intentionally matters — but who does not want a system that turns leisure into another form of obligation.
 
 ---
 
