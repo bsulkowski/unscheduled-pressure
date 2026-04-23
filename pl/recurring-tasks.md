@@ -56,3 +56,5 @@ To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dod
 - Brak kary za nieobecność — powrót po tygodniu zastaje dane dokładnie w takim stanie, w jakim zostały zostawione
 - Brak sztucznej pilności — oznaczanie rozpoczyna się dopiero po przekroczeniu progu ustawionego przez użytkownika
 - Konfiguracja należy do użytkownika — częstości są wybierane i swobodnie modyfikowane przez użytkownika
+
+→ [Przykładowy plan](example-plans.md#czynności-powtarzalne)

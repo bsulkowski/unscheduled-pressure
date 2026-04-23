@@ -58,3 +58,5 @@ This tool follows the UP principle of reflecting existing pressure without addin
 - No punishment for absence — the structure persists unchanged; returning after time away requires no rebuilding
 - No false urgency — ripening is a soft signal based on elapsed time, not a deadline imposed by the tool
 - Detail emerges from reality — granularity is determined by proximity in time, not by a schema the tool imposes
+
+→ [Example plan](example-plans.md#scale-free-planner)

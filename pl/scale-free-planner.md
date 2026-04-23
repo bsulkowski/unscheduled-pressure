@@ -58,3 +58,5 @@ To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dod
 - Brak kary za nieobecność — struktura pozostaje niezmieniona; powrót po przerwie nie wymaga przebudowy systemu
 - Brak sztucznej pilności — dojrzewanie to delikatny sygnał oparty na upływie czasu, nie termin narzucony przez narzędzie
 - Szczegółowość wynika z rzeczywistości — poziom ziarnistości wyznacza bliskość w czasie, nie schemat narzucony przez narzędzie
+
+→ [Przykładowy plan](example-plans.md#scale-free-planner)

@@ -10,6 +10,8 @@ UP is a set of tools for managing time and tasks. Each tool is matched to a diff
 
 → [Examples](en/examples.md)
 
+→ [Example Plans](en/example-plans.md)
+
 ## Tools
 
 | Tool | Purpose |

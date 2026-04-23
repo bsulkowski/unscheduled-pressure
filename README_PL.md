@@ -10,12 +10,14 @@ UP to zestaw narzędzi do zarządzania czasem i zadaniami. Każde narzędzie jes
 
 → [Przykłady](pl/examples.md)
 
+→ [Przykładowe plany](pl/example-plans.md)
+
 ## Narzędzia
 
 | Narzędzie | Przeznaczenie |
 |---|---|
-| [Czynności powtarzalne](pl/recurring-tasks-pl.md) | Czynności bez terminu, z przybliżoną częstością |
-| [Pace Planner](pl/pace-planner-pl.md) | Czas wolny i hobby, śledzone przez dzienne tempo |
-| [Scale-Free Planner](pl/scale-free-planner-pl.md) | Długofalowe planowanie we wszystkich horyzontach |
+| [Czynności powtarzalne](pl/recurring-tasks.md) | Czynności bez terminu, z przybliżoną częstością |
+| [Pace Planner](pl/pace-planner.md) | Czas wolny i hobby, śledzone przez dzienne tempo |
+| [Scale-Free Planner](pl/scale-free-planner.md) | Długofalowe planowanie we wszystkich horyzontach |
 
 *Also available in English: [README](README.md)*

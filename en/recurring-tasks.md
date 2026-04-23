@@ -56,3 +56,5 @@ This tool follows the UP principle of reflecting existing pressure without addin
 - No punishment for absence — come back after a week away and the data is exactly as you left it
 - No false urgency — flagging begins only after the threshold the user has set
 - User-owned configuration — frequencies are chosen and freely adjustable by the user
+
+→ [Example plan](example-plans.md#recurring-tasks)

@@ -51,3 +51,5 @@ To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dod
 - Brak kary za nieobecność — znacznik czeka; nic nie wygasa ani nie resetuje się
 - Brak sztucznej pilności — znacznik sygnalizuje względne tempo, nie termin
 - Sprzęgło zapobiega temu, żeby plan stał się zniechęcający — rzeczywistość i intencja pozostają wystarczająco blisko siebie, żeby być użyteczne
+
+→ [Przykładowy plan](example-plans.md#pace-planner)

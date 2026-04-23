@@ -51,3 +51,5 @@ This tool follows the UP principle of reflecting existing pressure without addin
 - No punishment for absence — the marker waits; nothing expires or resets
 - No false urgency — the marker signals relative pace, not a deadline
 - Leeway prevents the plan from becoming demoralising — reality and intention stay close enough to each other to remain useful
+
+→ [Example plan](example-plans.md#pace-planner)
