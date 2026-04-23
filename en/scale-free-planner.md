@@ -10,17 +10,18 @@ The Scale-Free Planner works across all horizons at once. Near-term slots are na
 
 ## How it works
 
-Tasks and plans are assigned to time slots. The slots are quantised — a fixed set of intervals — but their width grows with distance from the present. A typical set of slots might look like:
+Tasks and plans are assigned to time slots. The slots are quantised — a fixed set of intervals — but their width grows with distance from the present. The default set of slots, from the most distant to the most immediate, is:
 
-- Current week
-- Next week
-- The following two weeks
-- Next month
-- Next quarter
-- Next six months
-- Next year
+- **4 years** — aligned to a fixed grid (2001–2004, 2005–2008, …), dividing a lifetime into 25 equal intervals; the final year of each period is always divisible by 4
+- **2 years**
+- **1 year**
+- **Half a year**
+- **Quarter**
+- **Month**
+- **Half a month** — the division of a month into two halves is conventional; the recommended approach is to follow the week boundaries below
+- **Week** — months do not divide neatly into equal weeks; it is more practical at this level to work with whole weeks on a fixed cycle (e.g. Monday–Sunday), assigning each week to the month that contains the majority of its days
 
-Anything further out can be added as needed.
+The default slots can be adjusted to suit your needs.
 
 ## The key principle: slots divide, they don't shift
 
