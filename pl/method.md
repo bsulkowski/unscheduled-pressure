@@ -18,10 +18,10 @@ Stałe zewnętrzne zobowiązania: spotkania, wizyty, terminy z konkretną datą 
 ### Tygodniowy plan zajęć
 Statyczna tabela powtarzającej się struktury tygodnia — plan lekcji dzieci, stałe zobowiązania, przewidywalne bloki czasu. Nie dynamiczny kalendarz, lecz stabilna mapa tygodnia: zmienia się rzadko, jest często przeglądana.
 
-### Lista TODO — plan operacyjny
+### Lista zadań — plan operacyjny
 Lista konkretnych, krótkich spraw czekających na załatwienie dziś lub jutro. Intencją nie jest uchwycenie wszystkiego, żeby nic nie umknęło — lecz uświadomienie sobie priorytetów. Sprawę z listy można świadomie odłożyć lub z niej zrezygnować, gdy brakuje zasobów. Dzięki temu to użytkownik panuje nad bieżącymi priorytetami, a nie jego lęki, lenistwo czy chwilowa presja tego, co akurat czuje się pilne.
 
-### Deadline-y cykliczne
+### Terminy cykliczne
 Prosta lista regularnych zobowiązań finansowych i administracyjnych — miesięczne rachunki, roczne odnowienia — z zaznaczeniem, które są do załatwienia w bieżącym okresie i do kiedy. Nie tyle osobne narzędzie, co lekki wzorzec: lista kontrolna resetowana wraz z każdym cyklem.
 
 ### Czynności powtarzalne
@@ -29,15 +29,15 @@ Do czynności bez stałego terminu, które po prostu trzeba wykonywać regularni
 
 → [Czynności powtarzalne](recurring-tasks-pl.md)
 
-### Pace Planner
+### Planer tempa
 Do czynności bez terminu i bez stałego harmonogramu — czas wolny, rozwój osobisty, hobby. Każdej czynności przypisywana jest planowana dzienna średnia; znacznik dryfuje do przodu i do tyłu w kalendarzu, odzwierciedlając tempo realizacji względem planu. Mechanizm sprzęgła stopniowo zmniejsza duże różnice między planem a rzeczywistością, zapobiegając zniechęceniu.
 
-→ [Pace Planner](pace-planner-pl.md)
+→ [Planer tempa](pace-planner-pl.md)
 
-### Scale-Free Planner
+### Planer Scale-Free
 Do długofalowego planowania we wszystkich horyzontach jednocześnie. Zadania przydzielane są do przedziałów czasowych, których szerokość rośnie wraz z odległością od teraźniejszości. W miarę upływu czasu odległe przedziały dojrzewają i dzielą się na węższe — plany nie są wyrzucane i budowane od nowa, lecz trwale się budują i uszczegóławiają. Sprawdza się naturalnie przy wspólnym planowaniu dwóch lub więcej osób.
 
-→ [Scale-Free Planner](scale-free-planner-pl.md)
+→ [Planer Scale-Free](scale-free-planner-pl.md)
 
 ## Jak narzędzia się uzupełniają
 
@@ -47,11 +47,11 @@ Narzędzia obejmują pełne spektrum od spraw bezpośrednich do odległych, i od
 |---|---|---|
 | Kalendarz | Konkretna data i godzina | Stała |
 | Tygodniowy plan zajęć | Powtarzający się wzorzec tygodnia | Stała |
-| Lista TODO | Dziś / jutro | Płynna |
-| Deadline-y cykliczne | Cykl miesięczny / roczny | Półstała |
+| Lista zadań | Dziś / jutro | Płynna |
+| Terminy cykliczne | Cykl miesięczny / roczny | Półstała |
 | Czynności powtarzalne | Tygodnie do miesięcy | Przedziałowa |
-| Pace Planner | Ciągły, bez horyzontu | Tempowa |
-| Scale-Free Planner | Tygodnie do lat | Rozszerzające się przedziały |
+| Planer tempa | Ciągły, bez horyzontu | Tempowa |
+| Planer Scale-Free | Tygodnie do lat | Rozszerzające się przedziały |
 
 Żadne narzędzie nie próbuje pokryć całej tabeli. Każde robi jedną rzecz dobrze.
 
@@ -63,7 +63,7 @@ UP nie określa, jak często przeglądać narzędzia, które z nich otwierać pi
 
 ## Doświadczenia autora
 
-Trzy autorskie narzędzia UP — Czynności powtarzalne, Pace Planner i Scale-Free Planner — są w ciągłym użyciu przez autora metody od 2021 roku, bez istotnych zmian w podejściu. Przez cały ten czas utrzymywane są te same instancje planów, bez przebudowywania od nowa. Obejmuje to epizody dłuższych przerw w korzystaniu z poszczególnych narzędzi — w okresach większego stresu lub mniejszych zasobów do zajmowania się planowaniem — po których powrót był prosty, a plany czekały niezmienione.
+Trzy autorskie narzędzia UP — Czynności powtarzalne, Planer tempa i Planer Scale-Free — są w ciągłym użyciu przez autora metody od 2021 roku, bez istotnych zmian w podejściu. Przez cały ten czas utrzymywane są te same instancje planów, bez przebudowywania od nowa. Obejmuje to epizody dłuższych przerw w korzystaniu z poszczególnych narzędzi — w okresach większego stresu lub mniejszych zasobów do zajmowania się planowaniem — po których powrót był prosty, a plany czekały niezmienione.
 
 ## Zakres i znane ograniczenia
 
@@ -71,7 +71,7 @@ UP było rozwijane i testowane w kontekście osobistym. Obejmuje sprawy, które 
 
 Dwa obszary, w których metoda może wymagać uzupełnienia — szczególnie w kontekście zawodowym lub zespołowym:
 
-**Projekty wieloetapowe.** Projekt ze wzajemnie zależnymi etapami można umieścić w Scale-Free Plannerze jako jeden wpis z listą podzadań w opisie, przypisany do czasu, kiedy trzeba zająć się pierwszym z nich. Sprawdza się to w prostych przypadkach, ale nie pokazuje, jak projekt rozkłada się w czasie. Rozbicie go na kilka osobnych wpisów utrudnia z kolei śledzenie zależności między etapami.
+**Projekty wieloetapowe.** Projekt ze wzajemnie zależnymi etapami można umieścić w Planerze Scale-Free jako jeden wpis z listą podzadań w opisie, przypisany do czasu, kiedy trzeba zająć się pierwszym z nich. Sprawdza się to w prostych przypadkach, ale nie pokazuje, jak projekt rozkłada się w czasie. Rozbicie go na kilka osobnych wpisów utrudnia z kolei śledzenie zależności między etapami.
 
 **Oczekiwanie na innych.** Sprawy zablokowane w oczekiwaniu na decyzję, odpowiedź lub działanie innej osoby nie mają dedykowanego miejsca w obecnym zestawie narzędzi. W praktyce trafiają na listę TODO, co nie jest rozwiązaniem optymalnym.
 

@@ -1,4 +1,4 @@
-# Pace Planner — narzędzie UP
+# Planer tempa — narzędzie UP
 
 Narzędzie do śledzenia czynności bez terminów — tylko z zadanym tempem.
 
@@ -6,7 +6,7 @@ Narzędzie do śledzenia czynności bez terminów — tylko z zadanym tempem.
 
 Niektóre czynności są ważne, ale nigdy nie stają się pilne. Nauka języka, sport, granie w gry, czytanie dla przyjemności — wszystkie konkurują o ten sam ograniczony zasób: czas wolny. I im tego czasu jest mniej, tym bardziej warto go świadomie zagospodarować.
 
-Jednocześnie każdy system, który zamienia przyjemność w obowiązek, działa przeciwko sobie. Pace Planner jest zaprojektowany tak, żeby utrzymywać świadomość tego, jak czas rozkłada się między różne czynności — bez zamieniania tej świadomości w presję.
+Jednocześnie każdy system, który zamienia przyjemność w obowiązek, działa przeciwko sobie. Planer tempa jest zaprojektowany tak, żeby utrzymywać świadomość tego, jak czas rozkłada się między różne czynności — bez zamieniania tej świadomości w presję.
 
 ## Jak to działa
 
@@ -18,7 +18,7 @@ Jeśli znacznik wskazuje dzisiejszy dzień, realizacja jest dokładnie zgodna z 
 
 W dniach, gdy nic się nie dzieje, nie trzeba niczego wpisywać. Znacznik po prostu zostaje tam, gdzie jest.
 
-→ [Przykładowy plan](example-plans.md#pace-planner)
+→ [Przykładowy plan](example-plans.md#planer-tempa)
 
 ## Czym znacznik nie jest
 

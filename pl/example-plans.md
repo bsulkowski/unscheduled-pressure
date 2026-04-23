@@ -38,7 +38,7 @@ Czynności pogrupowane według przypisanego przedziału. Podana data to dzień o
 
 ---
 
-## Pace Planner
+## Planer tempa
 
 Czynności pogrupowane według przypisanej dziennej średniej. Podana data to aktualna pozycja znacznika względem dzisiaj (23 kwi 2026). Znacznik przed dzisiaj oznacza, że czynność ostatnio pochłaniała więcej czasu niż planowano; za dzisiaj — że była zaniedbywana.
 
@@ -64,7 +64,7 @@ Czynności pogrupowane według przypisanej dziennej średniej. Podana data to ak
 
 ---
 
-## Scale-Free Planner
+## Planer Scale-Free
 
 Plany pogrupowane według przedziałów czasowych, od najbliższego do najdalszego. Każdy wpis to jeden plan lub projekt przypisany do danego przedziału.
 

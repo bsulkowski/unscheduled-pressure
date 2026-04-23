@@ -1,4 +1,4 @@
-# Scale-Free Planner — narzędzie UP
+# Planer Scale-Free — narzędzie UP
 
 Narzędzie do długofalowego planowania, w którym poziom szczegółowości wynika z odległości w czasie — nie z decyzji planującego.
 
@@ -23,7 +23,7 @@ Zadania i plany przydzielane są do przedziałów czasowych. Przedziały są skw
 
 Domyślne przedziały można dostosować do własnych potrzeb.
 
-→ [Przykładowy plan](example-plans.md#scale-free-planner)
+→ [Przykładowy plan](example-plans.md#planer-scale-free)
 
 ## Kluczowa zasada: przedziały się dzielą, nie przesuwają
 

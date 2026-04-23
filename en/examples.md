@@ -40,17 +40,17 @@ A cyclic deadline is an external obligation with a fixed due date that recurs on
 
 A recurring task is something you want to do regularly, at a frequency you set yourself. Washing the car, cleaning the coffee machine, checking the tyre pressure — these have no external due date. The interval is your own judgment of what makes sense. They belong in **Recurring Tasks**.
 
-The car is a good illustration of the boundary. Paying the annual road tax is a cyclic deadline — the date is fixed and missing it has legal consequences. Washing the car is a recurring task — it needs doing roughly every month or two, but the exact timing is yours.
+The car is a good illustration of the boundary. Paying the annual road tax is a **cyclic deadline** — the date is fixed and missing it has legal consequences. Washing the car is a **recurring task** — it needs doing roughly every month or two, but the exact timing is yours.
 
 ### Recurring Tasks vs Pace Planner
 
 Both cover open-ended activities with no fixed deadline, but they differ in what you are tracking.
 
-Recurring Tasks is for discrete, completable activities — things you do once and then it is done until next time. Cleaning the bathroom filter, replacing a lightbulb, descaling the kettle. Each instance is a finished event. The tool tracks when it last happened.
+**Recurring Tasks** is for discrete, completable activities — things you do once and then it is done until next time. Cleaning the bathroom filter, replacing a lightbulb, descaling the kettle. Each instance is a finished event. The tool tracks when it last happened.
 
-The Pace Planner is for continuous activities — things you do a little of at a time, where what matters is the accumulated amount over time. Reading, practising an instrument, exercising. There is no single moment of completion. The tool tracks whether your overall pace matches your intention.
+The **Pace Planner** is for continuous activities — things you do a little of at a time, where what matters is the accumulated amount over time. Reading, practising an instrument, exercising. There is no single moment of completion. The tool tracks whether your overall pace matches your intention.
 
-Maintenance and enjoyment of the same object can fall on different sides of this boundary. Servicing the car annually is a Recurring Task. Going for a drive on weekends for pleasure is a Pace Planner entry.
+Maintenance and enjoyment of the same object can fall on different sides of this boundary. Servicing the car annually is a **Recurring Task**. Going for a drive on weekends for pleasure is a **Pace Planner** entry.
 
 ---
 
