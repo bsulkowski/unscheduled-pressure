@@ -49,13 +49,14 @@ Activities are grouped by their assigned daily average. The date shown is the cu
 - Reading — 2 May
 
 **15 min**
-- Spanish — 19 Apr
+- (none)
 
 **10 min**
+- Spanish — 19 Apr
 - Piano — 25 Apr
 
 **7 min**
-- Sketching — 24 Apr
+- (none)
 
 **5 min**
 - Meditation — 23 Apr

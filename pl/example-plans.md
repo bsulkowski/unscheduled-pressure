@@ -43,24 +43,25 @@ Czynności pogrupowane według przypisanego przedziału. Podana data to dzień o
 Czynności pogrupowane według przypisanej dziennej średniej. Podana data to aktualna pozycja znacznika względem dzisiaj (23 kwi 2026). Znacznik przed dzisiaj oznacza, że czynność ostatnio pochłaniała więcej czasu niż planowano; za dzisiaj — że była zaniedbywana.
 
 **30 min**
-- Jazda na rowerze — 21 kwi
+- Rower — 21 kwi
 
 **20 min**
 - Czytanie — 2 maj
 
 **15 min**
-- Hiszpański — 19 kwi
+- (brak)
 
 **10 min**
+- Hiszpański — 19 kwi
 - Pianino — 25 kwi
 
 **7 min**
-- Szkicowanie — 24 kwi
+- (brak)
 
 **5 min**
 - Medytacja — 23 kwi
 
-*Dziś jest 23 kwi. Hiszpański (19 kwi) i jazda na rowerze (21 kwi) są za dzisiaj. Czytanie (2 maj) i pianino (25 kwi) są przed dzisiaj.*
+*Dziś jest 23 kwi. Hiszpański (19 kwi) i rower (21 kwi) są za dzisiaj. Czytanie (2 maj) i pianino (25 kwi) są przed dzisiaj.*
 
 ---
 
