@@ -4,32 +4,6 @@ These examples show what a filled-in plan looks like for each of the three purpo
 
 ---
 
-## Pace Planner
-
-Activities are grouped by their assigned daily average. The date shown is the current marker position relative to today (23 Apr 2026). A marker ahead of today means the activity has been getting more time than planned recently; behind today means it has been neglected.
-
-**30 min**
-- Cycling — 21 Apr
-
-**20 min**
-- Reading — 2 May
-
-**15 min**
-- Spanish — 19 Apr
-
-**10 min**
-- Piano — 25 Apr
-
-**7 min**
-- Sketching — 24 Apr
-
-**5 min**
-- Meditation — 23 Apr
-
-*Today is 23 Apr. Spanish (19 Apr) and Cycling (21 Apr) are behind. Reading (2 May) and Piano (25 Apr) are ahead.*
-
----
-
 ## Recurring Tasks
 
 Activities are grouped by their assigned interval. The date shown is when the activity was last completed. Within each group, a horizontal rule marks the point where the lower bound of the interval has been passed — activities below it are gently flagged.
@@ -71,6 +45,32 @@ Activities are grouped by their assigned interval. The date shown is when the ac
 
 ---
 - Service boiler — Oct 2024
+
+---
+
+## Pace Planner
+
+Activities are grouped by their assigned daily average. The date shown is the current marker position relative to today (23 Apr 2026). A marker ahead of today means the activity has been getting more time than planned recently; behind today means it has been neglected.
+
+**30 min**
+- Cycling — 21 Apr
+
+**20 min**
+- Reading — 2 May
+
+**15 min**
+- Spanish — 19 Apr
+
+**10 min**
+- Piano — 25 Apr
+
+**7 min**
+- Sketching — 24 Apr
+
+**5 min**
+- Meditation — 23 Apr
+
+*Today is 23 Apr. Spanish (19 Apr) and Cycling (21 Apr) are behind. Reading (2 May) and Piano (25 Apr) are ahead.*
 
 ---
 

@@ -23,6 +23,8 @@ Zadania i plany przydzielane są do przedziałów czasowych. Przedziały są skw
 
 Domyślne przedziały można dostosować do własnych potrzeb.
 
+→ [Przykładowy plan](example-plans.md#scale-free-planner)
+
 ## Kluczowa zasada: przedziały się dzielą, nie przesuwają
 
 W miarę upływu czasu przedziały nigdy nie są przemianowywane ani przestawiane. Zamiast tego — dzielą się. Gdy odległy przedział wystarczająco się przybliży, rozpada się na węższe przedziały, które teraz mieszczą się w jego obrębie. Zadanie przydzielone do „następnego kwartału" pozostaje tam, gdy kwartał się zbliża — a gdy nadchodzi moment szczegółowego planowania tego kwartału, przedział jest dzielony i zadanie umieszczane precyzyjniej.
@@ -58,5 +60,3 @@ To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dod
 - Brak kary za nieobecność — struktura pozostaje niezmieniona; powrót po przerwie nie wymaga przebudowy systemu
 - Brak sztucznej pilności — dojrzewanie to delikatny sygnał oparty na upływie czasu, nie termin narzucony przez narzędzie
 - Szczegółowość wynika z rzeczywistości — poziom ziarnistości wyznacza bliskość w czasie, nie schemat narzucony przez narzędzie
-
-→ [Przykładowy plan](example-plans.md#scale-free-planner)

@@ -18,6 +18,8 @@ If the marker sits on today, you are exactly on pace. If you spend time on the a
 
 No entry is required on days when nothing happens. The marker simply stays where it is.
 
+→ [Example plan](example-plans.md#pace-planner)
+
 ## What the marker is not
 
 The marker is not a deadline. It does not generate guilt. Spending an hour on something planned at fifteen minutes a day is fine — it just means the marker moves further ahead, and the activity will naturally fade into the background for a while. The system reflects choices; it does not judge them.
@@ -51,5 +53,3 @@ This tool follows the UP principle of reflecting existing pressure without addin
 - No punishment for absence — the marker waits; nothing expires or resets
 - No false urgency — the marker signals relative pace, not a deadline
 - Leeway prevents the plan from becoming demoralising — reality and intention stay close enough to each other to remain useful
-
-→ [Example plan](example-plans.md#pace-planner)

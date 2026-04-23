@@ -18,6 +18,8 @@ Maintain a table with three pieces of information for each activity:
 
 When the lower bound of the chosen interval has passed since the last completion, the item is gently flagged — not as overdue or failed, but as a nudge: *you wanted to do this roughly this often, and the time has come around again.*
 
+→ [Example plan](example-plans.md#recurring-tasks)
+
 ## Frequency intervals
 
 Rather than picking an exact frequency (every 3 weeks? every 28 days?), activities are assigned to one of a small number of intervals. The default set is:
@@ -56,5 +58,3 @@ This tool follows the UP principle of reflecting existing pressure without addin
 - No punishment for absence — come back after a week away and the data is exactly as you left it
 - No false urgency — flagging begins only after the threshold the user has set
 - User-owned configuration — frequencies are chosen and freely adjustable by the user
-
-→ [Example plan](example-plans.md#recurring-tasks)

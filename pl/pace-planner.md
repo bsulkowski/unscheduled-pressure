@@ -18,6 +18,8 @@ Jeśli znacznik wskazuje dzisiejszy dzień, realizacja jest dokładnie zgodna z 
 
 W dniach, gdy nic się nie dzieje, nie trzeba niczego wpisywać. Znacznik po prostu zostaje tam, gdzie jest.
 
+→ [Przykładowy plan](example-plans.md#pace-planner)
+
 ## Czym znacznik nie jest
 
 Znacznik nie jest terminem. Nie generuje poczucia winy. Spędzenie godziny na czymś planowanym po piętnaście minut dziennie jest w porządku — znacznik po prostu wysuwa się bardziej do przodu, a dana czynność naturalnie schodzi na dalszy plan na jakiś czas. System odzwierciedla decyzje; nie ocenia ich.
@@ -51,5 +53,3 @@ To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dod
 - Brak kary za nieobecność — znacznik czeka; nic nie wygasa ani nie resetuje się
 - Brak sztucznej pilności — znacznik sygnalizuje względne tempo, nie termin
 - Sprzęgło zapobiega temu, żeby plan stał się zniechęcający — rzeczywistość i intencja pozostają wystarczająco blisko siebie, żeby być użyteczne
-
-→ [Przykładowy plan](example-plans.md#pace-planner)

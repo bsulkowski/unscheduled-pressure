@@ -18,6 +18,8 @@ Prowadzona jest tabela z trzema informacjami dla każdej czynności:
 
 Gdy od ostatniego wykonania minął dolny próg wybranego przedziału, pozycja zostaje delikatnie oznaczona — nie jako zaległa ani niewykonana, ale jako przypomnienie: *chciałeś zajmować się tym mniej więcej tak często, a właśnie nadszedł ten czas.*
 
+→ [Przykładowy plan](example-plans.md#czynności-powtarzalne)
+
 ## Przedziały częstości
 
 Zamiast wybierać dokładną częstość (co 3 tygodnie? co 28 dni?), czynnościom przypisuje się jeden z kilku przedziałów. Domyślny zestaw to:
@@ -56,5 +58,3 @@ To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dod
 - Brak kary za nieobecność — powrót po tygodniu zastaje dane dokładnie w takim stanie, w jakim zostały zostawione
 - Brak sztucznej pilności — oznaczanie rozpoczyna się dopiero po przekroczeniu progu ustawionego przez użytkownika
 - Konfiguracja należy do użytkownika — częstości są wybierane i swobodnie modyfikowane przez użytkownika
-
-→ [Przykładowy plan](example-plans.md#czynności-powtarzalne)

@@ -23,6 +23,8 @@ Tasks and plans are assigned to time slots. The slots are quantised — a fixed 
 
 The default slots can be adjusted to suit your needs.
 
+→ [Example plan](example-plans.md#scale-free-planner)
+
 ## The key principle: slots divide, they don't shift
 
 As time passes, slots are never relabelled or reshuffled. Instead, they divide. When a distant slot draws close enough, it splits into the narrower slots that now fit inside it. A task sitting in "next quarter" stays there as the quarter approaches — and when the time comes to plan that quarter in detail, the slot is divided and the task is placed more precisely within it.
@@ -58,5 +60,3 @@ This tool follows the UP principle of reflecting existing pressure without addin
 - No punishment for absence — the structure persists unchanged; returning after time away requires no rebuilding
 - No false urgency — ripening is a soft signal based on elapsed time, not a deadline imposed by the tool
 - Detail emerges from reality — granularity is determined by proximity in time, not by a schema the tool imposes
-
-→ [Example plan](example-plans.md#scale-free-planner)
