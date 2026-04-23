@@ -61,6 +61,10 @@ For examples of how specific activities are assigned to tools — including case
 
 UP does not specify how often to review, which tool to open first, or how to structure a day. The tools are available when needed. Using them inconsistently or infrequently is not a failure — the system is designed to wait, not to demand.
 
+## Track record
+
+The three purpose-built UP tools — Recurring Tasks, Pace Planner, and Scale-Free Planner — have been in continuous use by their author since 2021, without significant changes to the approach. The same plan instances have been maintained throughout, without rebuilding from scratch. This includes periods of extended inactivity with individual tools, during times of higher stress or reduced capacity to engage with planning at all — followed by straightforward returns, with the plans intact and waiting.
+
 ## Scope and known limits
 
 UP was developed and tested in a personal context. It covers things that have a temporal nature — rhythm, horizon, recurrence, pace — but that typically get forced into a calendar for lack of better tools. It does not cover ideas, reference materials, or knowledge management.

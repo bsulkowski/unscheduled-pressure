@@ -61,6 +61,10 @@ Przykłady przydzielania konkretnych spraw do narzędzi — w tym przypadki, gdy
 
 UP nie określa, jak często przeglądać narzędzia, które z nich otwierać pierwsze ani jak strukturyzować dzień. Narzędzia są dostępne wtedy, gdy są potrzebne. Nieregularne lub rzadkie korzystanie z nich nie jest porażką — system jest zaprojektowany tak, żeby czekać, a nie żądać.
 
+## Doświadczenia autora
+
+Trzy autorskie narzędzia UP — Czynności powtarzalne, Pace Planner i Scale-Free Planner — są w ciągłym użyciu przez autora metody od 2021 roku, bez istotnych zmian w podejściu. Przez cały ten czas utrzymywane są te same instancje planów, bez przebudowywania od nowa. Obejmuje to epizody dłuższych przerw w korzystaniu z poszczególnych narzędzi — w okresach większego stresu lub mniejszych zasobów do zajmowania się planowaniem — po których powrót był prosty, a plany czekały niezmienione.
+
 ## Zakres i znane ograniczenia
 
 UP było rozwijane i testowane w kontekście osobistym. Obejmuje sprawy, które mają naturę czasową — rytm, horyzont, powtarzalność, tempo — ale które zwykle z braku lepszych narzędzi wtłacza się w kalendarz. Nie obejmuje idei, materiałów referencyjnych ani zarządzania wiedzą.
