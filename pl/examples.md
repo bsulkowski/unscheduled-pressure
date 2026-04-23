@@ -14,23 +14,19 @@ Chcesz czytać więcej beletrystyki dla przyjemności. Nie ma terminu, tylko int
 
 ### Ćwiczenia
 
+Co wtorek wieczór chodzisz na jogę. To stały, powtarzający się przedział w twoim tygodniu — trafia do **kalendarza tygodniowego** jako stały wpis.
+
+Umówiłeś się ze znajomym na squasha w środę. To spotkanie — trafia do **kalendarza**.
+
 Chcesz regularnie biegać dla zdrowia, bez żadnego konkretnego celu. Bieganie trafia do **Pace Plannera** — ustawiasz dzienną średnią i śledzisz, czy utrzymujesz tempo.
 
 Przygotowujesz się do konkretnego biegu za trzy miesiące. Jest horyzont i cel. Treningi trafiają do **Scale-Free Plannera**, gdzie możesz je uszczegóławiać w miarę zbliżania się startu.
 
-Umówiłeś się ze znajomym na squasha w środę. To spotkanie — trafia do **kalendarza**.
-
-### Nauka języka
-
-Uczysz się hiszpańskiego w wolnym czasie, bez konkretnego terminu. Trafia do **Pace Plannera** — dzienna średnia utrzymuje postęp bez presji.
-
-Musisz osiągnąć określony poziom przed wyjazdem lub egzaminem za pół roku. Trafia do **Scale-Free Plannera**, gdzie zobowiązanie ma horyzont i można je rozbić na etapy w miarę dojrzewania.
-
 ### Utrzymywanie kontaktu z bliskimi
 
-Chcesz regularnie dzwonić do babci — bez konkretnego harmonogramu, po prostu wystarczająco często. To wpis w **Czynności powtarzalne**: przybliżona częstość, data ostatniego wykonania, delikatny sygnał po przekroczeniu przedziału.
-
 Umówiłeś się na obiad ze znajomym w następną sobotę. To stałe zobowiązanie — trafia do **kalendarza**.
+
+Chcesz regularnie dzwonić do babci — bez konkretnego harmonogramu, po prostu wystarczająco często. To wpis w **Czynności powtarzalne**: przybliżona częstość, data ostatniego wykonania, delikatny sygnał po przekroczeniu przedziału.
 
 ---
 

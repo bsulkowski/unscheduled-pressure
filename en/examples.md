@@ -14,23 +14,19 @@ You want to read more fiction for pleasure. There is no deadline, just an intent
 
 ### Exercise
 
+You go to a yoga class every Tuesday evening. It is a fixed, recurring slot in your week — it goes in the **weekly calendar** as a standing entry.
+
+You have arranged to play squash with a friend on Wednesday. That is an appointment — it goes in the **calendar**.
+
 You want to run regularly for your health, with no event in mind. Running goes into the **Pace Planner** — you set a daily average and track whether you are keeping pace.
 
 You are training for a specific race in three months. There is a horizon and a target. Training goes into the **Scale-Free Planner**, where it can be refined as the race approaches.
 
-You have arranged to play squash with a friend on Wednesday. That is an appointment — it goes in the **calendar**.
-
-### Learning a language
-
-You are learning Spanish in your spare time, with no particular deadline. It goes into the **Pace Planner** — a daily average keeps you moving without pressure.
-
-You need to reach a certain level before a trip or an exam in six months. It goes into the **Scale-Free Planner**, where the commitment has a horizon and can be broken into milestones as it ripens.
-
 ### Staying in touch with someone
 
-You want to call your grandmother regularly — no specific schedule, just often enough. This is a **Recurring Tasks** entry: a rough frequency, a last-done date, a gentle nudge when the interval passes.
-
 You have arranged to have dinner with a friend next Saturday. That is a fixed commitment — it goes in the **calendar**.
+
+You want to call your grandmother regularly — no specific schedule, just often enough. This is a **Recurring Tasks** entry: a rough frequency, a last-done date, a gentle nudge when the interval passes.
 
 ---
 
