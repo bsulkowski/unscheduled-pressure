@@ -6,7 +6,7 @@ These examples show what a filled-in plan looks like for each of the three purpo
 
 ## Recurring Tasks
 
-Activities are grouped by their assigned interval. The date shown is when the activity was last completed. Within each group, a horizontal rule marks the point where the lower bound of the interval has been passed — activities below it are gently flagged.
+Activities are grouped by their assigned interval. The date shown is when the activity was last completed. Items marked with an asterisk have passed the lower bound of their interval and are gently flagged.
 
 **A few days**
 - Take out bins — 21 Apr
@@ -15,36 +15,26 @@ Activities are grouped by their assigned interval. The date shown is when the ac
 
 **10–20 days**
 - Clean bathroom — 10 Apr
-
----
-- Wipe down kitchen cupboards — 28 Mar
+- Wipe down kitchen cupboards — 28 Mar *
 
 **1–2 months**
-- Clean washing machine filter — 31 Mar
-- Descale kettle — 4 Apr
 - Car tyre pressure — 18 Apr
-
----
-- Hoover under furniture — 8 Mar
+- Descale kettle — 4 Apr
+- Clean washing machine filter — 31 Mar
+- Hoover under furniture — 8 Mar *
 
 **3–4 months**
-- Check smoke alarms — 10 Feb
 - Replace toothbrush — 15 Mar
-
----
-- Clean extractor fan filter — 5 Jan
+- Check smoke alarms — 10 Feb
+- Clean extractor fan filter — 5 Jan *
 
 **6–8 months**
 - Bleed radiators — 1 Nov 2025
-
----
-- Clean behind the fridge — 12 Aug 2025
+- Clean behind the fridge — 12 Aug 2025 *
 
 **1 year**
 - Test RCD sockets — Apr 2025
-
----
-- Service boiler — Oct 2024
+- Service boiler — Oct 2024 *
 
 ---
 

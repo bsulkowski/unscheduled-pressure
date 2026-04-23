@@ -6,7 +6,7 @@ Poniższe przykłady pokazują, jak wygląda wypełniony plan dla każdego z trz
 
 ## Czynności powtarzalne
 
-Czynności pogrupowane według przypisanego przedziału. Podana data to dzień ostatniego wykonania. W każdej grupie pozioma linia oznacza przekroczenie dolnego progu przedziału — czynności poniżej są delikatnie sygnalizowane.
+Czynności pogrupowane według przypisanego przedziału. Podana data to dzień ostatniego wykonania. Czynności oznaczone gwiazdką przekroczyły dolny próg swojego przedziału i są delikatnie sygnalizowane.
 
 **Kilka dni**
 - Wyniesienie śmieci — 21 kwi
@@ -15,36 +15,26 @@ Czynności pogrupowane według przypisanego przedziału. Podana data to dzień o
 
 **10–20 dni**
 - Sprzątanie łazienki — 10 kwi
-
----
-- Przetarcie frontów kuchennych — 28 mar
+- Przetarcie frontów kuchennych — 28 mar *
 
 **1–2 miesiące**
-- Czyszczenie filtra pralki — 31 mar
-- Odkamienianie czajnika — 4 kwi
 - Ciśnienie w oponach — 18 kwi
-
----
-- Odkurzanie pod meblami — 8 mar
+- Odkamienianie czajnika — 4 kwi
+- Czyszczenie filtra pralki — 31 mar
+- Odkurzanie pod meblami — 8 mar *
 
 **3–4 miesiące**
-- Sprawdzenie czujników dymu — 10 lut
 - Wymiana szczoteczki do zębów — 15 mar
-
----
-- Czyszczenie filtra okapu — 5 sty
+- Sprawdzenie czujników dymu — 10 lut
+- Czyszczenie filtra okapu — 5 sty *
 
 **6–8 miesięcy**
 - Odpowietrzanie grzejników — 1 lis 2025
-
----
-- Czyszczenie za lodówką — 12 sie 2025
+- Czyszczenie za lodówką — 12 sie 2025 *
 
 **1 rok**
 - Testowanie wyłączników różnicowoprądowych — kwi 2025
-
----
-- Przegląd kotła — paź 2024
+- Przegląd kotła — paź 2024 *
 
 ---
 
