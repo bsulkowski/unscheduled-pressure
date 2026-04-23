@@ -12,7 +12,7 @@ At the same time, any system that turns leisure into obligation defeats its own 
 
 Each activity is assigned a planned average — a target amount of time per day. A marker tracks progress against that plan by moving forward and backward in the calendar.
 
-Daily averages are chosen from a set of quantised values rather than entered as free numbers. The default set is: 5, 7, 10, 15, 20, 30 minutes. As with the frequency intervals in Recurring Tasks, the point is to remove a non-decision — whether an activity deserves 13 or 14 minutes a day is rarely meaningful, and deliberating over it adds friction without value. The default values can be adjusted to suit your needs.
+Daily averages are chosen from a set of quantised values rather than entered as free numbers. The default set is: 5, 7, 10, 15, 20, 30 minutes. As with the frequency intervals in Recurring Tasks, the point is to remove a non-decision — whether an activity deserves 13 or 14 minutes a day is meaningless, and deliberating over it would add friction without value. The default values can be adjusted to suit your needs.
 
 If the marker sits on today, you are exactly on pace. If you spend time on the activity, the marker moves forward proportionally. Thirty minutes on an activity planned at fifteen minutes per day moves the marker two days ahead. If the marker is ahead of today, that activity has been getting more than its share of time recently — a natural signal to let other things catch up. If the marker is behind today, that activity has been neglected.
 
@@ -44,12 +44,3 @@ This tool has no required technology. Use whatever fits your workflow:
 - A plain document updated manually
 
 The structure is the method. The medium is up to you.
-
-## UP compatibility
-
-This tool follows the UP principle of reflecting existing pressure without adding its own:
-
-- No enforced rhythm — activities can be pursued in any order, at any time, in any amount
-- No punishment for absence — the marker waits; nothing expires or resets
-- No false urgency — the marker signals relative pace, not a deadline
-- Leeway prevents the plan from becoming demoralising — markers stay close enough to the present to remain meaningful

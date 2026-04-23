@@ -12,7 +12,7 @@ Jednocześnie każdy system, który zamienia przyjemność w obowiązek, działa
 
 Każdej czynności przypisywana jest planowana średnia — docelowa ilość czasu dziennie. Znacznik śledzi realizację względem planu, przesuwając się do przodu i do tyłu w kalendarzu.
 
-Dzienne średnie wybierane są ze skwantowanego zestawu wartości, a nie wpisywane dowolnie. Domyślny zestaw to: 5, 7, 10, 15, 20, 30 minut. Podobnie jak przedziały częstości w Czynności powtarzalnych, chodzi o wyeliminowanie pozornej decyzji — to, czy danej czynności należy się 13 czy 14 minut dziennie, rzadko ma znaczenie, a deliberowanie nad tym dodaje tarcia bez wartości. Domyślne wartości można dostosować do własnych potrzeb.
+Dzienne średnie wybierane są ze skwantowanego zestawu wartości, a nie wpisywane dowolnie. Domyślny zestaw to: 5, 7, 10, 15, 20, 30 minut. Podobnie jak przedziały częstości w Czynności powtarzalnych, chodzi o wyeliminowanie pozornej decyzji — to, czy danej czynności należy się 13 czy 14 minut dziennie, nie ma istotnego znaczenia, więc deliberowanie nad tym byłoby nic nie wnoszącym obciążeniem. Domyślne wartości można dostosować do własnych potrzeb.
 
 Jeśli znacznik wskazuje dzisiejszy dzień, realizacja jest dokładnie zgodna z planem. Czas poświęcony na daną czynność przesuwa znacznik proporcjonalnie do przodu. Trzydzieści minut przy planowanych piętnastu minutach dziennie przesuwa znacznik o dwa dni do przodu. Jeśli znacznik wyprzedza dzisiaj, dana czynność ostatnio pochłaniała więcej niż swój udział czasu — naturalny sygnał, żeby dać teraz szansę innym. Jeśli znacznik opóźnia się w stosunku do dzisiaj, czynność była zaniedbywana.
 
@@ -40,16 +40,7 @@ To narzędzie nie zakłada żadnej konkretnej technologii. Można użyć tego, c
 
 - Tablicy Trello z jedną kartą na czynność, używając dat jako znaczników
 - Arkusza kalkulacyjnego śledzącego daty i dzienne cele
-- Fizycznego kalendarza z przesuwnymi znacznikami
+- Fizycznego kalendarza z przesuwalnymi znacznikami
 - Zwykłego dokumentu aktualizowanego ręcznie
 
 Struktura jest metodą. Nośnik należy do użytkownika.
-
-## Zgodność z UP
-
-To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dodając własnej:
-
-- Brak narzuconego rytmu — czynności można realizować w dowolnej kolejności, czasie i ilości
-- Brak kary za nieobecność — znacznik czeka; nic nie wygasa ani nie resetuje się
-- Brak sztucznej pilności — znacznik sygnalizuje względne tempo, nie termin
-- Sprzęgło zapobiega temu, żeby plan stał się zniechęcający — znaczniki pozostają wystarczająco blisko teraźniejszości, żeby zachować sens
