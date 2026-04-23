@@ -21,13 +21,13 @@ A static table of recurring weekly structure — school timetables, regular comm
 ### TODO list — operational plan
 A list of concrete, short tasks waiting to be done today or tomorrow. The intention is not to make sure nothing is forgotten — it is to make prioritisation conscious. A task on the list can be deliberately deferred or dropped when resources are limited. This keeps the user in control of their immediate priorities, rather than being driven by fear of forgetting, inertia, or the pressure of whatever happens to feel urgent in the moment.
 
+### Cyclic deadlines
+A simple list of regular financial or administrative obligations — monthly bills, annual renewals — with a note of which are pending in the current period and by when. Not a separate tool so much as a lightweight pattern: a checklist that resets with each cycle.
+
 ### Recurring Tasks
 For activities with no fixed deadline that simply need to happen regularly — cleaning a filter, replacing a toothbrush, checking a smoke alarm. A table of activities, rough frequencies, and last-done dates. A gentle signal appears when the lower bound of the chosen interval has passed.
 
 → [Recurring Tasks](recurring-tasks.md)
-
-### Cyclic deadlines
-A simple list of regular financial or administrative obligations — monthly bills, annual renewals — with a note of which are pending in the current period and by when. Not a separate tool so much as a lightweight pattern: a checklist that resets with each cycle.
 
 ### Pace Planner
 For open-ended activities with no deadline and no fixed schedule — leisure, personal development, hobbies. Each activity gets a target daily average; a marker drifts forward and backward in the calendar to reflect pace relative to plan. A leeway mechanism gradually closes large gaps between plan and reality, preventing the system from becoming demoralising.

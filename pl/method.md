@@ -21,13 +21,13 @@ Statyczna tabela powtarzającej się struktury tygodnia — plan lekcji dzieci, 
 ### Lista TODO — plan operacyjny
 Lista konkretnych, krótkich spraw czekających na załatwienie dziś lub jutro. Intencją nie jest uchwycenie wszystkiego, żeby nic nie umknęło — lecz uświadomienie sobie priorytetów. Sprawę z listy można świadomie odłożyć lub z niej zrezygnować, gdy brakuje zasobów. Dzięki temu to użytkownik panuje nad bieżącymi priorytetami, a nie jego lęki, lenistwo czy chwilowa presja tego, co akurat czuje się pilne.
 
+### Deadline-y cykliczne
+Prosta lista regularnych zobowiązań finansowych i administracyjnych — miesięczne rachunki, roczne odnowienia — z zaznaczeniem, które są do załatwienia w bieżącym okresie i do kiedy. Nie tyle osobne narzędzie, co lekki wzorzec: lista kontrolna resetowana wraz z każdym cyklem.
+
 ### Czynności powtarzalne
 Do czynności bez stałego terminu, które po prostu trzeba wykonywać regularnie — czyszczenie filtra, wymiana szczoteczki, sprawdzenie czujnika dymu. Tabela czynności, przybliżonych częstości i dat ostatniego wykonania. Delikatny sygnał pojawia się po przekroczeniu dolnego progu wybranego przedziału.
 
 → [Czynności powtarzalne](recurring-tasks-pl.md)
-
-### Deadline-y cykliczne
-Prosta lista regularnych zobowiązań finansowych i administracyjnych — miesięczne rachunki, roczne odnowienia — z zaznaczeniem, które są do załatwienia w bieżącym okresie i do kiedy. Nie tyle osobne narzędzie, co lekki wzorzec: lista kontrolna resetowana wraz z każdym cyklem.
 
 ### Pace Planner
 Do czynności bez terminu i bez stałego harmonogramu — czas wolny, rozwój osobisty, hobby. Każdej czynności przypisywana jest planowana dzienna średnia; znacznik dryfuje do przodu i do tyłu w kalendarzu, odzwierciedlając tempo realizacji względem planu. Mechanizm sprzęgła stopniowo zmniejsza duże różnice między planem a rzeczywistością, zapobiegając zniechęceniu.
