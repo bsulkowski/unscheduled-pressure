@@ -22,9 +22,12 @@ When the lower bound of the chosen interval has passed since the last completion
 
 Rather than picking an exact frequency (every 3 weeks? every 28 days?), activities are assigned to one of a small number of intervals. The default set is:
 
+- **a few days**
+- **10-20 days**
 - **1–2 months**
 - **3–4 months**
 - **6–8 months**
+- **1 year**
 
 The point of intervals — rather than exact values — is to remove a non-decision. Whether something happens every 3 or 4 months is rarely meaningful. The interval captures the intent without demanding false precision.
 

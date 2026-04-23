@@ -22,9 +22,12 @@ Gdy od ostatniego wykonania minął dolny próg wybranego przedziału, pozycja z
 
 Zamiast wybierać dokładną częstość (co 3 tygodnie? co 28 dni?), czynnościom przypisuje się jeden z kilku przedziałów. Domyślny zestaw to:
 
+- **kilka dni**
+- **10-20 dni**
 - **1–2 miesiące**
 - **3–4 miesiące**
 - **6–8 miesięcy**
+- **1 rok**
 
 Sens przedziałów — zamiast dokładnych wartości — polega na eliminacji pozornej decyzji. To, czy coś dzieje się co 3 czy co 4 miesiące, rzadko ma znaczenie. Przedział oddaje intencję bez wymagania fałszywej precyzji.
 
