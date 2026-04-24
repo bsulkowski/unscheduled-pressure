@@ -31,7 +31,7 @@ Rather than picking an exact frequency (every 3 weeks? every 28 days?), activiti
 - **6–8 months**
 - **1 year**
 
-The point of intervals — rather than exact values — is to remove a non-decision. Whether something happens every 3 or 4 months is rarely meaningful. The interval captures the intent without demanding false precision.
+The point of intervals — rather than exact values — is to remove a non-decision. Whether something happens every 7 or 8 months does not make a real difference. The interval captures the intent without demanding false precision.
 
 The default intervals can be adjusted to suit your needs.
 
@@ -43,18 +43,9 @@ A task is flagged once the lower bound of its interval has passed since it was l
 
 This tool has no required technology. Use whatever fits your workflow:
 
-- A Trello board with cards and labels
-- A spreadsheet (Excel, Google Sheets, Numbers)
-- A plain text file or markdown table
+- A Trello board with cards and dates assigned
+- A spreadsheet
+- A plain text file
 - A notebook and pencil
 
 The structure is the method. The medium is up to you.
-
-## UP compatibility
-
-This tool follows the UP principle of reflecting existing pressure without adding its own:
-
-- No enforced rhythm — the tool does not expect regular check-ins
-- No punishment for absence — come back after a week away and the data is exactly as you left it
-- No false urgency — flagging begins only after the threshold the user has set
-- User-owned configuration — frequencies are chosen and freely adjustable by the user

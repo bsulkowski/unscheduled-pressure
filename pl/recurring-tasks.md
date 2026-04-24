@@ -31,7 +31,7 @@ Zamiast wybierać dokładną częstość (co 3 tygodnie? co 28 dni?), czynności
 - **6–8 miesięcy**
 - **1 rok**
 
-Sens przedziałów — zamiast dokładnych wartości — polega na eliminacji pozornej decyzji. To, czy coś dzieje się co 3 czy co 4 miesiące, rzadko ma znaczenie. Przedział oddaje intencję bez wymagania fałszywej precyzji.
+Sens przedziałów — zamiast dokładnych wartości — polega na eliminacji pozornej decyzji. To, czy coś dzieje się co 7 czy co 8 miesiące, nie ma większego znaczenia. Przedział oddaje intencję bez wymagania fałszywej precyzji.
 
 Domyślne przedziały można dostosować do własnych potrzeb.
 
@@ -43,18 +43,9 @@ Czynność jest oznaczana w momencie, gdy od ostatniego wykonania minął dolny 
 
 To narzędzie nie zakłada żadnej konkretnej technologii. Można użyć tego, co najlepiej pasuje do własnego stylu pracy:
 
-- Tablicy Trello z kartami i etykietami
-- Arkusza kalkulacyjnego (Excel, Google Sheets, Numbers)
-- Pliku tekstowego lub tabeli w Markdown
+- Tablicy Trello z kartami i przypisanymi datami
+- Arkusza kalkulacyjnego
+- Pliku tekstowego
 - Kartki i ołówka
 
 Struktura jest metodą. Nośnik należy do użytkownika.
-
-## Zgodność z UP
-
-To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dodając własnej:
-
-- Brak narzuconego rytmu — narzędzie nie oczekuje regularnych przeglądów
-- Brak kary za nieobecność — powrót po tygodniu zastaje dane dokładnie w takim stanie, w jakim zostały zostawione
-- Brak sztucznej pilności — oznaczanie rozpoczyna się dopiero po przekroczeniu progu ustawionego przez użytkownika
-- Konfiguracja należy do użytkownika — częstości są wybierane i swobodnie modyfikowane przez użytkownika
