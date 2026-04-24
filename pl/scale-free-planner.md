@@ -29,7 +29,7 @@ Domyślne przedziały można dostosować do własnych potrzeb.
 
 W miarę upływu czasu przedziały nigdy nie są przemianowywane ani przestawiane. Zamiast tego — dzielą się. Gdy odległy przedział wystarczająco się przybliży, rozpada się na węższe przedziały, które teraz mieszczą się w jego obrębie. Zadanie przydzielone do „następnego kwartału" pozostaje tam, gdy kwartał się zbliża — a gdy nadchodzi moment szczegółowego planowania tego kwartału, przedział jest dzielony i zadanie umieszczane precyzyjniej.
 
-Oznacza to, że system nigdy nie wymaga przebudowy od zera. Plany trwale budują się i uszczegóławiają z czasem, zamiast wygasać i być zastępowane.
+Oznacza to, że system nigdy nie wymaga przebudowy od zera. Trwałe plany budują się i uszczegóławiają z czasem, zamiast wygasać i być zastępowane.
 
 ## Dojrzewanie
 
@@ -51,12 +51,3 @@ To narzędzie nie zakłada żadnej konkretnej technologii. Można użyć tego, c
 - Zwykłego dokumentu przeglądanego i aktualizowanego od czasu do czasu
 
 Struktura jest metodą. Nośnik należy do użytkownika.
-
-## Zgodność z UP
-
-To narzędzie stosuje zasadę UP — odzwierciedla istniejącą presję, nie dodając własnej:
-
-- Brak narzuconego rytmu — nie ma wymaganego harmonogramu planowania; użytkownik angażuje się, gdy przedział dojrzewa lub gdy sam uzna to za właściwe
-- Brak kary za nieobecność — struktura pozostaje niezmieniona; powrót po przerwie nie wymaga przebudowy systemu
-- Brak sztucznej pilności — dojrzewanie to delikatny sygnał oparty na upływie czasu, nie termin narzucony przez narzędzie
-- Szczegółowość wynika z rzeczywistości — poziom ziarnistości wyznacza bliskość w czasie, nie schemat narzucony przez narzędzie

@@ -51,12 +51,3 @@ This tool has no required technology. Use whatever fits your workflow:
 - A plain document reviewed and updated periodically
 
 The structure is the method. The medium is up to you.
-
-## UP compatibility
-
-This tool follows the UP principle of reflecting existing pressure without adding its own:
-
-- No enforced rhythm — there is no required planning cadence; the user engages when a slot ripens or when it feels right
-- No punishment for absence — the structure persists unchanged; returning after time away requires no rebuilding
-- No false urgency — ripening is a soft signal based on elapsed time, not a deadline imposed by the tool
-- Detail emerges from reality — granularity is determined by proximity in time, not by a schema the tool imposes
