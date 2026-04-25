@@ -106,3 +106,7 @@ Plans are grouped by time slot, from the most immediate to the most distant. Eac
 - Save for house: buy
 
 *The first slots are concrete and actionable. The later ones are intentions — broad placeholders that will divide into narrower slots as they ripen.*
+
+---
+
+These are fictional examples. If you'd like to share your own setup or see how others have implemented UP: [Show your setup — how have you implemented UP?](https://github.com/bsulkowski/unscheduled-pressure/discussions/1)

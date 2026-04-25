@@ -116,3 +116,5 @@ Two areas where the method may need extension, particularly in professional or c
 **Waiting on others.** Tasks that are blocked pending someone else's decision, response, or action have no dedicated place in the current toolkit. In practice they tend to land on the TODO list, which is not ideal.
 
 These are areas where feedback from users in different contexts will be most valuable. UP is not designed to be complete from the outset — it is designed to be honest about what it covers and open about what it does not.
+
+→ [Where does UP fall short? Situations the method doesn't handle well](https://github.com/bsulkowski/unscheduled-pressure/discussions/2)

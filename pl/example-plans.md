@@ -106,3 +106,7 @@ Plany pogrupowane według przedziałów czasowych, od najbliższego do najdalsze
 - Oszczędzanie na mieszkanie: zakup
 
 *Pierwsze przedziały są konkretne i gotowe do działania. Późniejsze to intencje — szerokie placeholdery, które podzielą się na węższe przedziały w miarę dojrzewania.*
+
+---
+
+To są fikcyjne przykłady. Jeśli chcesz pokazać swój własny setup lub zobaczyć, jak robią to inni: [Show your setup — how have you implemented UP?](https://github.com/bsulkowski/unscheduled-pressure/discussions/1)

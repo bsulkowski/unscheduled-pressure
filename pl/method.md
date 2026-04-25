@@ -116,3 +116,5 @@ Dwa obszary, w których metoda może wymagać uzupełnienia — szczególnie w k
 **Oczekiwanie na innych.** Sprawy zablokowane w oczekiwaniu na decyzję, odpowiedź lub działanie innej osoby nie mają dedykowanego miejsca w obecnym zestawie narzędzi. W praktyce trafiają na listę TODO, co nie jest rozwiązaniem optymalnym.
 
 Są to obszary, w których feedback od użytkowników w różnych kontekstach będzie najbardziej wartościowy. UP nie jest zaprojektowane jako system kompletny od początku — jest zaprojektowane tak, żeby być uczciwe wobec tego, co obejmuje, i otwarte wobec tego, czego jeszcze nie obejmuje.
+
+→ [Where does UP fall short? Situations the method doesn't handle well](https://github.com/bsulkowski/unscheduled-pressure/discussions/2)

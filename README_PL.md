@@ -20,4 +20,10 @@ UP to zestaw narzędzi do zarządzania czasem i zadaniami. Każde narzędzie jes
 | [Planer tempa](pl/pace-planner.md) | Czas wolny i hobby, śledzone przez dzienne tempo |
 | [Planer Scale-Free](pl/scale-free-planner.md) | Długofalowe planowanie we wszystkich horyzontach |
 
+## Discussions
+
+→ [Show your setup — how have you implemented UP?](https://github.com/bsulkowski/unscheduled-pressure/discussions/1)
+
+→ [Where does UP fall short? Situations the method doesn't handle well](https://github.com/bsulkowski/unscheduled-pressure/discussions/2)
+
 *Also available in English: [README](README.md)*

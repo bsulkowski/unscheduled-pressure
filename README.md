@@ -20,4 +20,10 @@ UP is a set of tools for managing time and tasks. Each tool is matched to a diff
 | [Pace Planner](en/pace-planner.md) | Open-ended activities and leisure, tracked by daily pace |
 | [Scale-Free Planner](en/scale-free-planner.md) | Long-range planning across all time horizons |
 
+## Discussions
+
+→ [Show your setup — how have you implemented UP?](https://github.com/bsulkowski/unscheduled-pressure/discussions/1)
+
+→ [Where does UP fall short? Situations the method doesn't handle well](https://github.com/bsulkowski/unscheduled-pressure/discussions/2)
+
 *Also available in Polish: [README](README_PL.md)*
