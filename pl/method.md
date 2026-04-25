@@ -4,13 +4,15 @@ UP to nie jedno narzędzie. To zestaw narzędzi, z których każde jest dopasowa
 
 Celem nie jest uchwycenie wszystkiego i zoptymalizowanie. Celem jest uczynienie istniejącej presji widoczną i zarządzalną — tak żeby decyzje o tym, co zrobić dalej, były podejmowane świadomie, a nie pod wpływem lęku, przyzwyczajenia czy głosu tego, kto w danej chwili najgłośniej domaga się uwagi.
 
-## Dlaczego kilka narzędzi
+---
+
+## Narzędzia
+
+### Dlaczego kilka narzędzi
 
 Różne rodzaje zadań mają fundamentalnie różną naturę. Wizyta u dentysty i mgliste postanowienie nauki hiszpańskiego to nie są rzeczy tego samego rodzaju i nie powinny żyć w tym samym systemie. Wciśnięcie wszystkiego w jedno narzędzie albo nadmiernie upraszcza część zadań, albo niepotrzebnie komplikuje pozostałe.
 
 UP korzysta z istniejących narzędzi tam, gdzie dobrze działają, i wprowadza narzędzia autorskie tam, gdzie nie działają.
-
-## Zestaw narzędzi
 
 ### Kalendarz
 Stałe zewnętrzne zobowiązania: spotkania, wizyty, terminy z konkretną datą i godziną. Kalendarz jest właściwym narzędziem do tego celu i nie wymaga zastępowania. UP go nie wynajduje na nowo.
@@ -39,7 +41,7 @@ Do długofalowego planowania we wszystkich horyzontach jednocześnie. Zadania pr
 
 → [Planer Scale-Free](scale-free-planner-pl.md)
 
-## Jak narzędzia się uzupełniają
+### Jak narzędzia się uzupełniają
 
 Narzędzia obejmują pełne spektrum od spraw bezpośrednich do odległych, i od sztywnych do otwartych:
 
@@ -57,17 +59,21 @@ Narzędzia obejmują pełne spektrum od spraw bezpośrednich do odległych, i od
 
 Przykłady przydzielania konkretnych spraw do narzędzi — w tym przypadki, gdy ta sama czynność trafia do różnych narzędzi w zależności od kontekstu — znajdziesz w pliku [UP w praktyce](examples.md).
 
-## Czego metoda nie narzuca
+---
+
+## Wdrożenie
+
+### Czego metoda nie narzuca
 
 UP nie określa, jak często przeglądać narzędzia, które z nich otwierać pierwsze ani jak strukturyzować dzień. Narzędzia są dostępne wtedy, gdy są potrzebne. Nieregularne lub rzadkie korzystanie z nich nie jest porażką — system jest zaprojektowany tak, żeby czekać, a nie żądać.
 
-## UP nie jest zamiennikiem
+### UP nie jest zamiennikiem
 
 UP nie próbuje zastępować metod, które już dobrze działają. Jeśli masz rutyny, nawyki lub systemy, które ci służą, nie ma powodu ich porzucać. UP wypełnia luki — miejsca, gdzie istniejące podejścia zawodzą lub gdzie dotychczas nie było żadnego narzędzia.
 
 Narzędzia są też w dużej mierze niezależne od siebie. Nie wymagają synchronizacji. Jedyna zależność, którą dzielą, polega na tym, że wszystkie konkurują o ten sam zasób: czas użytkownika. Ponieważ jednak większość narzędzi UP nie narzuca żadnych sztywnych terminów, twarde kolizje między nimi są rzadkością.
 
-## Jak zacząć
+### Jak zacząć
 
 Pełny zestaw narzędzi może na pierwszy rzut oka wyglądać przytłaczająco. Nie jest przeznaczony do wdrożenia od razu w całości.
 
@@ -81,7 +87,7 @@ Kilka przykładów częściowego wdrożenia:
 
 **Planer Scale-Free tylko do wspólnego planowania.** Dobrze planujesz własne długoterminowe sprawy, ale koordynowanie planów z partnerem sprawia trudność. Planer Scale-Free można zastosować wyłącznie do wspólnych przedsięwzięć, pozostawiając planowanie osobiste bez zmian.
 
-## Kiedy życie już przytłacza
+### Kiedy życie już przytłacza
 
 Naturalna reakcja przy pierwszym zetknięciu z UP: *jestem już przeciążony — nie potrzebuję kolejnego systemu do utrzymania.* To zrozumiała odpowiedź. Ale może wskazywać w przeciwnym kierunku.
 
@@ -89,11 +95,15 @@ Ktoś, kto czuje się zbyt rozciągnięty, żeby przyjąć nowe narzędzie, moż
 
 UP wyrosło dokładnie na gruncie takiego kontekstu — długotrwałego przeciążenia w osobistym życiu, małych zasobów i rytmu dezorganizowanego przez ważne sprawy, nad którymi nie ma kontroli. Tam metoda pokazuje swoją największą wartość: nie jako narzędzie optymalizacji dla tych, którym już dobrze idzie, ale jako stabilizująca obecność dla tych, którym nie idzie. Narzędzie, które nic od ciebie nie wymaga, gdy nie masz nic do dania — i które jest nadal tam, niezmienione, gdy sytuacja na tyle się uspokoi, żeby do niego wrócić.
 
-## Doświadczenia autora
+---
+
+## Kontekst
+
+### Doświadczenia autora
 
 Trzy autorskie narzędzia UP — Czynności powtarzalne, Planer tempa i Planer Scale-Free — są w ciągłym użyciu przez autora metody od 2021 roku, bez istotnych zmian w podejściu. Przez cały ten czas utrzymywane są te same instancje planów, bez przebudowywania od nowa. Obejmuje to epizody dłuższych przerw w korzystaniu z poszczególnych narzędzi — w okresach większego stresu lub mniejszych zasobów do zajmowania się planowaniem — po których powrót był prosty, a plany czekały niezmienione.
 
-## Zakres i znane ograniczenia
+### Zakres i znane ograniczenia
 
 UP było rozwijane i testowane w kontekście osobistym. Obejmuje sprawy, które mają naturę czasową — rytm, horyzont, powtarzalność, tempo — ale które zwykle z braku lepszych narzędzi wtłacza się w kalendarz. Nie obejmuje idei, materiałów referencyjnych ani zarządzania wiedzą.
 
