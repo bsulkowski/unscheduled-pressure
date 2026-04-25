@@ -47,15 +47,15 @@ For long-range planning across all horizons at once. Tasks are assigned to time 
 
 The tools cover the full range from the immediate to the distant, and from the rigid to the open-ended:
 
-| Tool | Time horizon | Structure |
-|---|---|---|
-| Calendar | Specific date and time | Fixed |
-| Weekly schedule | Recurring weekly pattern | Fixed |
-| TODO list | Today / tomorrow | Fluid |
-| Cyclic deadlines | Monthly / annual cycle | Semi-fixed |
-| Recurring Tasks | Weeks to months | Interval-based |
-| Pace Planner | Ongoing, no horizon | Pace-based |
-| Scale-Free Planner | Weeks to years | Expanding slots |
+| Tool | Time horizon | Structure | Use cases |
+|---|---|---|---|
+| Calendar | Specific date and time | Fixed | Appointments, meetings, deadlines with a fixed date and time |
+| Weekly schedule | Recurring weekly pattern | Fixed | School timetables, regular commitments, predictable weekly blocks |
+| TODO list | Today / tomorrow | Fluid | Concrete short tasks to act on now or tomorrow |
+| Cyclic deadlines | Monthly / annual cycle | Semi-fixed | Bills, subscriptions, renewals, and other periodic obligations |
+| Recurring Tasks | Weeks to months | Interval-based | Maintenance, health, and household tasks with no fixed due date |
+| Pace Planner | Ongoing, no horizon | Pace-based | Leisure, hobbies, and personal development with no deadline |
+| Scale-Free Planner | Weeks to years | Expanding slots | Long-range goals, projects, and shared planning across all horizons |
 
 No single tool tries to cover the whole table. Each does one thing well.
 

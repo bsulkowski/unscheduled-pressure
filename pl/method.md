@@ -47,15 +47,15 @@ Do długofalowego planowania we wszystkich horyzontach jednocześnie. Zadania pr
 
 Narzędzia obejmują pełne spektrum od spraw bezpośrednich do odległych, i od sztywnych do otwartych:
 
-| Narzędzie | Horyzont czasowy | Struktura |
-|---|---|---|
-| Kalendarz | Konkretna data i godzina | Stała |
-| Tygodniowy plan zajęć | Powtarzający się wzorzec tygodnia | Stała |
-| Lista zadań | Dziś / jutro | Płynna |
-| Terminy cykliczne | Cykl miesięczny / roczny | Półstała |
-| Czynności powtarzalne | Tygodnie do miesięcy | Przedziałowa |
-| Planer tempa | Ciągły, bez horyzontu | Tempowa |
-| Planer Scale-Free | Tygodnie do lat | Rozszerzające się przedziały |
+| Narzędzie | Horyzont czasowy | Struktura | Zastosowania |
+|---|---|---|---|
+| Kalendarz | Konkretna data i godzina | Stała | Wizyty, spotkania, terminy z konkretną datą i godziną |
+| Tygodniowy plan zajęć | Powtarzający się wzorzec tygodnia | Stała | Plany lekcji, stałe zobowiązania, przewidywalne bloki tygodnia |
+| Lista zadań | Dziś / jutro | Płynna | Konkretne krótkie sprawy do załatwienia dziś lub jutro |
+| Terminy cykliczne | Cykl miesięczny / roczny | Półstała | Rachunki, subskrypcje, odnowienia i inne regularne zobowiązania |
+| Czynności powtarzalne | Tygodnie do miesięcy | Przedziałowa | Konserwacja, zdrowie, dom — czynności bez stałego terminu |
+| Planer tempa | Ciągły, bez horyzontu | Tempowa | Czas wolny, hobby i rozwój osobisty bez wyznaczonego terminu |
+| Planer Scale-Free | Tygodnie do lat | Rozszerzające się przedziały | Długofalowe cele, projekty i wspólne planowanie we wszystkich horyzontach |
 
 Żadne narzędzie nie próbuje pokryć całej tabeli. Każde robi jedną rzecz dobrze.
 
