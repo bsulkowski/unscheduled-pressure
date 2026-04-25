@@ -14,6 +14,8 @@ Different types of tasks have fundamentally different natures. A dentist appoint
 
 UP uses existing tools where they already work well, and introduces purpose-built tools where they do not.
 
+The tools are independent of each other. There is no need to master all of them before getting started — a single tool, chosen for the most pressing gap, is a complete and valid use of the method.
+
 ### Calendar
 Fixed external commitments: appointments, meetings, deadlines with a specific date and time. The calendar is the right tool for this and needs no replacement. UP does not reinvent it.
 

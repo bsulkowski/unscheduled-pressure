@@ -14,6 +14,8 @@ Różne rodzaje zadań mają fundamentalnie różną naturę. Wizyta u dentysty 
 
 UP korzysta z istniejących narzędzi tam, gdzie dobrze działają, i wprowadza narzędzia autorskie tam, gdzie nie działają.
 
+Narzędzia są od siebie niezależne. Nie trzeba opanować wszystkich, żeby zacząć — jedno narzędzie, dobrane do najbardziej odczuwalnej luki, jest pełnoprawnym sposobem korzystania z metody.
+
 ### Kalendarz
 Stałe zewnętrzne zobowiązania: spotkania, wizyty, terminy z konkretną datą i godziną. Kalendarz jest właściwym narzędziem do tego celu i nie wymaga zastępowania. UP go nie wynajduje na nowo.
 
