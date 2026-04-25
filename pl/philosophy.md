@@ -39,11 +39,14 @@ UP nie jest GTD. Nie jest systemem produktywności optymalizującym wyniki. Nie 
 
 UP nie próbuje uchwycić wszystkiego. Próbuje uczynić widocznym to, co ważne.
 
+Większość systemów produktywności zakłada pewną stabilność jako punkt wyjścia — że masz zasoby, rutynę i kontrolę potrzebne do utrzymania systemu. UP nie czyni takiego założenia.
+
 ## Dla kogo
 
 - Dla każdego, kto próbował systemu zarządzania czasem i odkrył, że utrzymanie systemu stało się zadaniem samym w sobie.
 - Dla każdego, kto potrzebuje zobaczyć kształt swoich obecnych zobowiązań — bez instrukcji, jak je obsłużyć.
 - Dla każdego, kogo czas wolny jest na tyle ograniczony, że warto go spędzać świadomie — ale kto nie chce systemu, który zamienia wypoczynek w kolejną formę obowiązku.
+- Oraz dla każdego, czyje życie jest zbyt nieregularne lub zbyt wymagające dla systemów opartych na rytmie — UP wyrosło dokładnie w takim kontekście.
 
 ---
 

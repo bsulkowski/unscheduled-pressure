@@ -39,11 +39,14 @@ UP is not GTD. It is not a productivity system that optimises your output. It do
 
 UP does not try to capture everything. It tries to make what matters visible.
 
+Most productivity systems assume a baseline of stability — that you have the resources, the routine, and the control needed to maintain a system. UP makes no such assumption.
+
 ## Who this is for
 
 - Anyone who has tried a time management system and found that maintaining the system became a task in itself.
 - Anyone who needs to see the shape of their current commitments without being told how to handle them.
 - Anyone whose free time is limited enough that spending it intentionally matters — but who does not want a system that turns leisure into another form of obligation.
+- And for anyone whose life is too irregular or too demanding for rhythm-based systems — UP was built in exactly that context.
 
 ---
 
