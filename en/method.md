@@ -18,7 +18,7 @@ UP uses existing tools where they already work well, and introduces purpose-buil
 
 The full toolkit can look overwhelming at first glance. It is not meant to be adopted all at once.
 
-A good starting point is to pick one tool that addresses the most pressing gap in your current approach and try that alone. There is no need to learn everything from the beginning. Each tool stands on its own.
+A good starting point is to pick one tool that addresses the most pressing gap in your current approach and try that alone. There is no need to learn everything upfront. Each tool stands on its own.
 
 A few examples of partial adoption:
 

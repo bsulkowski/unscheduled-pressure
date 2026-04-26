@@ -18,7 +18,7 @@ UP korzysta z istniejących narzędzi tam, gdzie dobrze działają, i wprowadza 
 
 Pełny zestaw narzędzi może na pierwszy rzut oka wyglądać przytłaczająco. Nie jest przeznaczony do wdrożenia od razu w całości.
 
-Dobrym punktem wyjścia jest wybór jednego narzędzia, które adresuje najbardziej odczuwalną lukę w dotychczasowym podejściu, i wypróbowanie tylko tego. Nie ma potrzeby poznawania wszystkiego od początku. Każde narzędzie działa samodzielnie.
+Dobrym punktem wyjścia jest wybór jednego narzędzia, które adresuje najbardziej odczuwalną lukę w dotychczasowym podejściu, i wypróbowanie tylko tego. Nie trzeba poznawać wszystkiego z góry. Każde narzędzie działa samodzielnie.
 
 Kilka przykładów częściowego wdrożenia:
 
