@@ -95,7 +95,7 @@ The tools are also largely independent of each other. There is no required synch
 
 A natural reaction when first encountering UP: *I'm already overloaded — the last thing I need is another system to maintain.* This is an understandable response. But it may point in the opposite direction.
 
-Someone who feels too stretched to adopt a new tool may be exactly the person who would benefit most from one. Not from a comprehensive system, but from a single, lightweight tool that brings a small piece of the chaos into focus.
+Someone who feels too stretched to adopt a new tool may be exactly the person who would benefit most from one. Not from a comprehensive system, but from a single, lightweight tool that makes one piece of the chaos manageable.
 
 UP grew out of precisely this kind of context — sustained overload in personal life, scarce resources, and a rhythm disrupted by important things outside one's control. That is where the method shows its greatest value: not as an optimisation tool for people who are already managing well, but as a stabilising presence for people who are not. A tool that requires nothing of you when you have nothing to give, and is still there — unchanged — when things settle enough to return to it.
 
