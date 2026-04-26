@@ -6,7 +6,7 @@ Celem nie jest uchwycenie wszystkiego i zoptymalizowanie. Celem jest uczynienie 
 
 ---
 
-## Narzędzia
+## Wprowadzenie
 
 ### Dlaczego kilka narzędzi
 
@@ -14,7 +14,23 @@ Różne rodzaje zadań mają fundamentalnie różną naturę. Wizyta u dentysty 
 
 UP korzysta z istniejących narzędzi tam, gdzie dobrze działają, i wprowadza narzędzia autorskie tam, gdzie nie działają.
 
-Narzędzia są od siebie niezależne. Nie trzeba opanować wszystkich, żeby zacząć — jedno narzędzie, dobrane do najbardziej odczuwalnej luki, jest pełnoprawnym sposobem korzystania z metody.
+### Nie musisz wszystkiego
+
+Pełny zestaw narzędzi może na pierwszy rzut oka wyglądać przytłaczająco. Nie jest przeznaczony do wdrożenia od razu w całości.
+
+Dobrym punktem wyjścia jest wybór jednego narzędzia, które adresuje najbardziej odczuwalną lukę w dotychczasowym podejściu, i wypróbowanie tylko tego. Nie ma potrzeby poznawania wszystkiego od początku. Każde narzędzie działa samodzielnie.
+
+Kilka przykładów częściowego wdrożenia:
+
+**Jedna aktywność w planerze tempa.** Dobrze radzisz sobie z wolnym czasem w ogólności, ale granie w gry komputerowe ma tendencję do niekontrolowanego rozrastania się — przerywanie wydaje się wyrzeczeniem, a kontynuowanie budzi poczucie winy. Jeden wpis w planerze tempa dla tej aktywności daje punkt odniesienia bez ograniczania czegokolwiek. Możesz grać tak długo, jak chcesz — znacznik po prostu pokazuje, gdzie jesteś względem planu.
+
+**Czynności powtarzalne dla konkretnego przedziału.** Masz już działające rutyny miesięczne i roczne. Ale sprawy wymagające uwagi co kwartał lub dwa wypadają przez szczeliny — umykają istniejącym rytmom i są zaniedbywane. Czynności powtarzalne z przedziałem 3–4 miesiące pokrywają dokładnie tę lukę, bez dotykania czegokolwiek innego.
+
+**Planer Scale-Free tylko do wspólnego planowania.** Dobrze planujesz własne długoterminowe sprawy, ale koordynowanie planów z partnerem sprawia trudność. Planer Scale-Free można zastosować wyłącznie do wspólnych przedsięwzięć, pozostawiając planowanie osobiste bez zmian.
+
+---
+
+## Narzędzia
 
 ### Kalendarz
 Stałe zewnętrzne zobowiązania: spotkania, wizyty, terminy z konkretną datą i godziną. Kalendarz jest właściwym narzędziem do tego celu i nie wymaga zastępowania. UP go nie wynajduje na nowo.
@@ -74,20 +90,6 @@ UP nie określa, jak często przeglądać narzędzia, które z nich otwierać pi
 UP nie próbuje zastępować metod, które już dobrze działają. Jeśli masz rutyny, nawyki lub systemy, które ci służą, nie ma powodu ich porzucać. UP wypełnia luki — miejsca, gdzie istniejące podejścia zawodzą lub gdzie dotychczas nie było żadnego narzędzia.
 
 Narzędzia są też w dużej mierze niezależne od siebie. Nie wymagają synchronizacji. Jedyna zależność, którą dzielą, polega na tym, że wszystkie konkurują o ten sam zasób: czas użytkownika. Ponieważ jednak większość narzędzi UP nie narzuca żadnych sztywnych terminów, twarde kolizje między nimi są rzadkością.
-
-### Jak zacząć
-
-Pełny zestaw narzędzi może na pierwszy rzut oka wyglądać przytłaczająco. Nie jest przeznaczony do wdrożenia od razu w całości.
-
-Dobrym punktem wyjścia jest wybór jednego narzędzia, które adresuje najbardziej odczuwalną lukę w dotychczasowym podejściu, i wypróbowanie tylko tego. Nie ma potrzeby poznawania wszystkiego od początku. Każde narzędzie działa samodzielnie.
-
-Kilka przykładów częściowego wdrożenia:
-
-**Jedna aktywność w planerze tempa.** Dobrze radzisz sobie z wolnym czasem w ogólności, ale granie w gry komputerowe ma tendencję do niekontrolowanego rozrastania się — przerywanie wydaje się wyrzeczeniem, a kontynuowanie budzi poczucie winy. Jeden wpis w planerze tempa dla tej aktywności daje punkt odniesienia bez ograniczania czegokolwiek. Możesz grać tak długo, jak chcesz — znacznik po prostu pokazuje, gdzie jesteś względem planu.
-
-**Czynności powtarzalne dla konkretnego przedziału.** Masz już działające rutyny miesięczne i roczne. Ale sprawy wymagające uwagi co kwartał lub dwa wypadają przez szczeliny — umykają istniejącym rytmom i są zaniedbywane. Czynności powtarzalne z przedziałem 3–4 miesiące pokrywają dokładnie tę lukę, bez dotykania czegokolwiek innego.
-
-**Planer Scale-Free tylko do wspólnego planowania.** Dobrze planujesz własne długoterminowe sprawy, ale koordynowanie planów z partnerem sprawia trudność. Planer Scale-Free można zastosować wyłącznie do wspólnych przedsięwzięć, pozostawiając planowanie osobiste bez zmian.
 
 ### Kiedy życie już przytłacza
 

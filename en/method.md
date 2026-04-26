@@ -6,7 +6,7 @@ The goal is not to capture everything and optimise it. The goal is to make exist
 
 ---
 
-## The tools
+## Overview
 
 ### Why multiple tools
 
@@ -14,7 +14,23 @@ Different types of tasks have fundamentally different natures. A dentist appoint
 
 UP uses existing tools where they already work well, and introduces purpose-built tools where they do not.
 
-The tools are independent of each other. There is no need to master all of them before getting started — a single tool, chosen for the most pressing gap, is a complete and valid use of the method.
+### You don't need all of it
+
+The full toolkit can look overwhelming at first glance. It is not meant to be adopted all at once.
+
+A good starting point is to pick one tool that addresses the most pressing gap in your current approach and try that alone. There is no need to learn everything from the beginning. Each tool stands on its own.
+
+A few examples of partial adoption:
+
+**One activity in the Pace Planner.** You manage your free time well in general, but playing video games tends to expand uncontrollably — and stopping feels like deprivation, but continuing feels like guilt. A single Pace Planner entry for gaming gives you a reference point without restricting anything. You can play for as long as you want; the marker simply tells you where you stand.
+
+**Recurring Tasks for a specific interval.** You already have monthly and annual routines that work. But things that need attention every quarter or two tend to slip through — they fall between your existing cadences and get neglected. Recurring Tasks with a 3–4 month interval covers exactly that gap, without touching anything else.
+
+**Scale-Free Planner for shared planning only.** You plan your own long-term projects well, but coordinating plans with a partner is harder. The Scale-Free Planner can be applied to shared commitments alone, leaving personal planning untouched.
+
+---
+
+## The tools
 
 ### Calendar
 Fixed external commitments: appointments, meetings, deadlines with a specific date and time. The calendar is the right tool for this and needs no replacement. UP does not reinvent it.
@@ -74,20 +90,6 @@ UP does not specify how often to review, which tool to open first, or how to str
 UP does not try to replace methods that already work for you. If you have routines, habits, or systems that serve you well, there is no reason to discard them. UP fills gaps — the places where existing approaches fall short or where nothing has been in place at all.
 
 The tools are also largely independent of each other. There is no required synchronisation between them. The only dependency they share is that they all compete for the same resource: the user's time. But since most UP tools impose no fixed deadlines of their own, hard conflicts between them are rare.
-
-### Starting small
-
-The full toolkit can look overwhelming at first glance. It is not meant to be adopted all at once.
-
-A good starting point is to pick one tool that addresses the most pressing gap in your current approach and try that alone. There is no need to learn everything from the beginning. Each tool stands on its own.
-
-A few examples of partial adoption:
-
-**One activity in the Pace Planner.** You manage your free time well in general, but playing video games tends to expand uncontrollably — and stopping feels like deprivation, but continuing feels like guilt. A single Pace Planner entry for gaming gives you a reference point without restricting anything. You can play for as long as you want; the marker simply tells you where you stand.
-
-**Recurring Tasks for a specific interval.** You already have monthly and annual routines that work. But things that need attention every quarter or two tend to slip through — they fall between your existing cadences and get neglected. Recurring Tasks with a 3–4 month interval covers exactly that gap, without touching anything else.
-
-**Scale-Free Planner for shared planning only.** You plan your own long-term projects well, but coordinating plans with a partner is harder. The Scale-Free Planner can be applied to shared commitments alone, leaving personal planning untouched.
 
 ### When life is already overwhelming
 
