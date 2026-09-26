@@ -47,17 +47,17 @@ Prosta lista regularnych zobowiązań finansowych i administracyjnych — miesi�
 ### Czynności powtarzalne
 Do czynności bez stałego terminu, które po prostu trzeba wykonywać regularnie — czyszczenie filtra, wymiana szczoteczki, sprawdzenie czujnika dymu. Tabela czynności, przybliżonych częstości i dat ostatniego wykonania. Delikatny sygnał pojawia się po przekroczeniu dolnego progu wybranego przedziału.
 
-→ [Czynności powtarzalne](recurring-tasks-pl.md)
+→ [Czynności powtarzalne](recurring-tasks.md)
 
 ### Planer tempa
 Do czynności bez terminu i bez stałego harmonogramu — czas wolny, rozwój osobisty, hobby. Każdej czynności przypisywana jest planowana dzienna średnia; znacznik dryfuje do przodu i do tyłu w kalendarzu, odzwierciedlając tempo realizacji względem planu. Mechanizm sprzęgła stopniowo zmniejsza duże różnice między planem a rzeczywistością, zapobiegając zniechęceniu.
 
-→ [Planer tempa](pace-planner-pl.md)
+→ [Planer tempa](pace-planner.md)
 
 ### Planer Scale-Free
 Do długofalowego planowania we wszystkich horyzontach jednocześnie. Zadania przydzielane są do przedziałów czasowych, których szerokość rośnie wraz z odległością od teraźniejszości. W miarę upływu czasu odległe przedziały dojrzewają i dzielą się na węższe — plany nie są wyrzucane i budowane od nowa, lecz trwale się budują i uszczegóławiają. Sprawdza się naturalnie przy wspólnym planowaniu dwóch lub więcej osób.
 
-→ [Planer Scale-Free](scale-free-planner-pl.md)
+→ [Planer Scale-Free](scale-free-planner.md)
 
 ### Jak narzędzia się uzupełniają
 
